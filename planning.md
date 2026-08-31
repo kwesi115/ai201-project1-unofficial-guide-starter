@@ -191,23 +191,23 @@ I chose all-MiniLM-L6-v2 because it is lightweight, fast, and effective for a re
 
 ### 1. Document Ingestion
 
-I will use ChatGPT to help implement the document ingestion process. I will provide the AI with my project description and requirements for collecting text from the nine selected articles about AI sentiment in higher education. I will ask it to produce Python code that loads or extracts the document text and preserves metadata such as the document title and source URL. I will verify the output by checking that all documents are successfully loaded, the extracted text is readable, and each document has the correct source information attached.
+I will use Claude Code to help me generate the document ingestion functions. I will provide Claude Code with my project description and requirements for collecting text from the nine selected articles about AI sentiment in higher education. I will ask it to generate Python functions that load or extract the document text and preserve metadata such as the document title and source URL. I will verify the output by checking that all documents are successfully loaded, the extracted text is readable, and each document has the correct source information attached.
 
 ### 2. Chunking
 
-I will use ChatGPT to help implement the chunking function. I will provide the AI with the **Chunking Strategy** section of this planning document and specifically ask it to implement a function that splits documents into approximately 500-token chunks with a 100-token overlap. I will verify the code by inspecting several chunks manually and confirming that the overlap is present and that source metadata remains attached to each chunk.
+I will use Claude Code to help me generate the chunking functions. I will provide Claude Code with the **Chunking Strategy** section of this planning document and specifically ask it to implement a function that splits documents into approximately 500-token chunks with a 100-token overlap. I will verify the code by inspecting several chunks manually and confirming that the overlap is present and that source metadata remains attached to each chunk.
 
 ### 3. Embedding and Vector Store
 
-I will use ChatGPT to help write the code for converting chunks into embeddings using `all-MiniLM-L6-v2` from the `sentence-transformers` library and storing them in ChromaDB. I will provide the **Retrieval Approach** and **Architecture** sections as requirements. I expect it to produce code that creates embeddings, stores each chunk and its metadata, and allows the vector database to be queried. I will verify the output by checking that the number of stored chunks matches the number generated during chunking and that queries return stored documents.
+I will use Claude Code to help me generate the functions for converting chunks into embeddings using `all-MiniLM-L6-v2` from the `sentence-transformers` library and storing them in ChromaDB. I will provide the **Retrieval Approach** and **Architecture** sections as requirements. I expect it to produce functions that create embeddings, store each chunk and its metadata, and allow the vector database to be queried. I will verify the output by checking that the number of stored chunks matches the number generated during chunking and that queries return stored documents.
 
 ### 4. Retrieval
 
-I will use ChatGPT to implement the retrieval function. I will provide the **Retrieval Approach** section and specify that the system must retrieve the top 5 most relevant chunks for each user query using similarity search. I expect the AI to produce a function that accepts a natural-language question, converts it into an embedding, and retrieves the five most relevant chunks from ChromaDB. I will verify the output using the questions in the **Evaluation Plan** and manually check whether the retrieved chunks contain information relevant to each question.
+I will use Claude Code to help me generate the retrieval functions. I will provide the **Retrieval Approach** section and specify that the system must retrieve the top 5 most relevant chunks for each user query using similarity search. I expect Claude Code to generate a function that accepts a natural-language question, converts it into an embedding, and retrieves the five most relevant chunks from ChromaDB. I will verify the output using the questions in the **Evaluation Plan** and manually check whether the retrieved chunks contain information relevant to each question.
 
 ### 5. Generation
 
-I will use ChatGPT to help create the generation step. I will provide the **Architecture**, **Retrieval Approach**, and **Evaluation Plan** sections and ask it to implement a prompt that instructs an LLM to answer questions using only the retrieved context. I will also require the response to include citations or source information from the retrieved documents. I will verify the output by testing the five evaluation questions, comparing each answer with the expected answer, and checking that the system does not make unsupported claims or cite sources that were not retrieved.
+I will use Claude Code to help me generate the functions for the generation step. I will provide the **Architecture**, **Retrieval Approach**, and **Evaluation Plan** sections and ask it to implement a prompt that instructs an LLM to answer questions using only the retrieved context. I will also require the response to include citations or source information from the retrieved documents. I will verify the output by testing the five evaluation questions, comparing each answer with the expected answers, and checking that the system does not make unsupported claims or cite sources that were not retrieved.
 
 
 **Milestone 3 — Ingestion and chunking:**
