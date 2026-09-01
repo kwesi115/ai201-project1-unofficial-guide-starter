@@ -1,0 +1,63 @@
+# AI Use Is Now "Near Universal" Among Undergraduates, but Students Are Divided on Its Impact
+
+**Source:** Higher Education Policy Institute (HEPI)
+
+In just three years, generative AI has moved from novelty to near universality among undergraduates. The question is no longer whether students use AI, but how well they use it – and how effectively institutions are supporting them to develop the skills to do so responsibly.
+
+The Student Generative AI Survey 2026 (HEPI Report 199), published by HEPI and sponsored by Kortext, shows a striking contrast in students' experiences. For some, AI frees up time for deeper learning and critical thinking. For others, it risks becoming a crutch. Higher education providers have a crucial role in ensuring AI enhances learning rather than diminishing it.
+
+Co-authored by Rose Stephenson, HEPI's Director of Policy and Strategy, and Charlotte Armstrong, HEPI's Policy Manager, the survey was conducted by Savanta in December 2025 and is based on responses from 1,054 full-time UK undergraduates.
+
+This third iteration of the report shows that students have embraced generative AI at an extraordinary speed. The UK has set out a clear ambition to be a global leader in the development and application of AI technologies, and students are already living that ambition in their day-to-day learning. However, what the survey also highlights is that institutional adoption is lagging behind student behaviour. While nearly all students use AI to support their studies, only 36% feel encouraged by their institution to do so, and only 38% say they are provided with AI tools.
+
+## Key Findings
+
+- **AI use is now almost universal.** Some 95% of students report using AI in at least one way and 94% say they use generative AI to help with assessed work. Many of these students will be encouraged or required to use AI in assessments as providers pivot to teaching and assessing AI skills. However, the proportion of students directly including AI-generated text in assessed work has risen to 12%, up from 8% in 2025 and 3% in 2024.
+- **Assessment has changed substantially.** Nearly two-thirds (65%) of students say assessment has changed significantly in response to AI. In addition, some students articulate a sense of anxiety about false accusations of misconduct.
+- **AI improves the student experience for many – but not all.** Almost half (49%) of students believe AI has improved their student experience, particularly by saving time, improving understanding and providing instant support. However, a minority feel AI has worsened their experience, citing concerns about fairness, skill erosion, social isolation and future employment.
+- **Students are using AI to support their wellbeing.** Around 15% of students report using AI for companionship, advice or to address loneliness.
+- **Students see AI skills as essential, but institutional support lags behind.** While over two-thirds (68%) of students believe AI skills are essential to thrive in today's world, fewer than half (48%) feel their teaching staff are helping them to develop these skills for their future careers. Arts and Humanities students are particularly likely to feel under-supported.
+
+## A Polarised Landscape
+
+There are numerous results from this year's survey suggesting that in 2026, we have reached a somewhat polarised AI landscape. These results include:
+
+- The proportion of students who agree that their institution encourages AI use (37%) and those who disagree (36%).
+- The equal distribution of students who feel that AI makes them feel lonelier (20%) and less lonely (21%).
+- The relatively equal proportion of students that lean towards using traditional sources (33%), using an equal balance of sources (29%), and favouring AI sources (37%).
+
+Notably, students from Russell Group institutions are most likely to agree that their institutions encourage the use of AI (39%) – this has increased from 26% last year.
+
+Further, the qualitative results demonstrate that even among students who embrace AI, individual learning experiences vary widely. Two contrasting statements from respondents stand out. One student responded:
+
+> AI tools allowed me to quickly summarise dense readings and generate drafts or outlines for assignments, saving hours of tedious work and letting me focus on critical analysis and deeper understanding.
+
+And another said:
+
+> I'm not using my brain at all.
+
+There is a striking contrast here between a student who is utilising AI to advance their learning and a student who is outsourcing their learning to AI. It is the role of institutions to develop skills within their student bodies to use AI to their advantage, rather than disadvantage, and to provide the impetus for them to do so.
+
+## Key Recommendations
+
+The report urges higher education providers to:
+
+- Provide structured AI induction and transition support for all students.
+- Consider revamping their curricula to explicitly teach AI knowledge and skills, at both the general and subject-specific levels.
+- Publish clear, accessible and assessment-specific guidance on AI use.
+- Ensure that the AI tools necessary or advantageous for course content or assessment are accessible to all students.
+- Ensure staff have access to AI training – and the time to invest in developing their own skills.
+
+As part of its work to identify gaps in the current evidence base, the Higher Education Mental Health Implementation Taskforce should:
+
+- Support research to understand the impact of students using AI for friendship, company, advice or to tackle loneliness.
+
+## Statements from the Authors and Sponsor
+
+Charlotte Armstrong, co-author and Policy Manager at HEPI, said:
+
+> Students overwhelmingly see AI as essential for their futures, but many do not feel adequately supported to develop the necessary skills. If universities want graduates to feel prepared for the future, then AI literacy and capability must be embedded across the curriculum. These skills cannot be treated as optional.
+
+Robin Gibson, Director of External Affairs at Kortext, said:
+
+> Student AI use is changing quickly. Universities are starting to close the gap between student expectations and AI provision and teaching, with more institutions now offering supported access to trusted tools. The provision of AI assistants grounded in educational contexts that enhance teaching, learning and study skills is how providers can safely and effectively empower students to develop the AI skills and capabilities needed in a rapidly changing world. Ensuring that every student can develop confidence and competence with these technologies is essential. This year's findings show increasing momentum, with a sector preparing to match students' enthusiasm and expectations in delivering institutional capability – but there is more to do.

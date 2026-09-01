@@ -1,0 +1,216 @@
+# Provide or Punish? Students' Views on Generative AI in Higher Education
+
+**Source:** HEPI Policy Note 51, February 2024. Author: Josh Freeman. Developed in partnership with Kortext.
+
+*Note on this text version: this report contains numerous bar/pie charts. Statistics that the source states explicitly in sentence form are preserved below; chart panels whose axis labels and values could not be reliably paired from the underlying PDF text extraction are described qualitatively instead, to avoid misattributing a percentage to the wrong category.*
+
+## Executive Summary
+
+We polled 1,250 UK undergraduate students on their attitudes to generative artificial intelligence (AI) tools such as ChatGPT. Our key findings include:
+
+- More than half of students (53%) have used generative AI to help them with assessments. The most common use is as an "AI private tutor" (36%), helping to explain concepts.
+- More than one-in-eight students (13%) use generative AI to generate text for assessments, but they typically edit the content before submitting it. Only 5% of students put AI-generated text into assessments without editing it personally.
+- More than a third of students who have used generative AI (35%) do not know how often it produces made-up facts, statistics or citations ("hallucinations").
+- A "digital divide" in AI use may be emerging. Nearly three-fifths of students from the most privileged backgrounds (58%) use generative AI for assessments, compared with just half (51%) from the least privileged backgrounds. Those with Asian ethnic backgrounds are also much more likely to have used generative AI than White or Black students, and male students use it more than female students.
+- A majority of students consider it acceptable to use generative AI for explaining concepts (66%), suggesting research ideas (54%) and summarising articles (53%), but only 3% think it is acceptable to use AI text in assessments without editing.
+- A majority (63%) think their institution has a "clear" policy on AI use, with only 12% thinking it is not clear. Most students (65%) also think their institution could spot work produced by AI.
+- Institutions have not radically changed their approach to assessments, with only one-in-11 students (9%) saying the approach has changed "significantly," compared with a quarter (24%) who say it has stayed the same.
+- Students think institutions should provide more AI tools. While three-in-10 (30%) agree or strongly agree their institution should provide tools, only one-in-11 (9%) say they currently do so.
+- Only a fifth of students (22%) are satisfied with the support they have received on AI. Most students (62%) are neutral or say they do not know.
+- Nearly three-quarters (73%) expect to use AI after they finish their studies. They most commonly expect to use it for translating text (38%), enhancing written content (37%) and summarising text (33%). Only a fifth of students (19%) expect to use it for generating text.
+
+Based on these findings, we recommend:
+
+1. Institutions should develop clear policies on what AI use is acceptable and what is unacceptable.
+2. Where AI has benefits, institutions should teach students how to use it effectively and how to check whether the content it produces is of high quality.
+3. To prevent the "digital divide" from growing, institutions should provide AI tools for those who cannot afford them when they have been identified as benefitting learning.
+4. The Department for Education (DfE) and devolved administrations should urgently commission reviews to explore how academic assessment will be affected by AI.
+
+This report was developed in partnership with Kortext, which has recently launched Kortext Premium, a suite of next-generation, AI-powered study tools developed by working extensively with Microsoft. It enables students to summarise content, create study notes, generate interactive quizzes, produce citations in key referencing styles, and translate text into over 140 languages.
+
+## Introduction
+
+Since ChatGPT was released on 30 November 2022, there has been an explosion of interest in artificial intelligence (AI) technology. ChatGPT, run by OpenAI, was one of the first publicly available "generative" AI tools, which involve AI creating new content like text, images and video. There is now a plethora of generative AI tools, including the DALL·E image generator, the Scribe AI writing assistant and the AlphaCode coding problem-solver. With the recent release of GPT-4, a more advanced version of ChatGPT, and the development of new tools like Microsoft's Copilot, generative AI will continue to grow quickly.
+
+These developments have begun to shape the higher education sector. Initial reports suggest students have used ChatGPT in large numbers. This has prompted excitement and concern in equal measure. Many identify opportunities for AI to enhance learning, support students and reduce both student and staff workload. However, the immediate availability of free and powerful AI tools has also raised concerns about cheating. OpenAI has claimed that not only can GPT-4 pass the US bar exam, but it also performs better than 90% of those who take it, raising the possibility that students use AI technology to complete their classwork. The sector remains divided on the extent to which this is a concern and how to address it if so.
+
+The sector must now adapt to generative AI. Many higher education institutions have already begun to do so, such as by releasing guidance on the acceptable use of AI. But students' attitudes to the technology are not well understood. How many students use generative AI? What do they use it for, and how do they expect to use it in the future? What do they consider acceptable? How do they feel about the way their institutions have approached it? Using new polling data collected exclusively for this report, we address these questions for the first time and build a detailed picture of the growing influence of generative AI on UK higher education.
+
+## Methodology
+
+We polled 1,250 undergraduate students (rounded to the nearest five) through UCAS in November 2023. Before taking the survey, students were told that their responses were confidential and would not be used to identify them.
+
+The questions are loosely based on the 2023 survey *Chatbots and other AI for learning*, in which Swedish university students were polled on their use of and attitudes to AI. The order the questions are presented here is different from the order they were originally put to students.
+
+The survey responses have been weighted to make the results more representative of the current student population. This accounts for differences in response rates for demographics such as age, sex, country and ethnic group. The margin of error at a 95% confidence level is +/-3%.
+
+Percentages may not sum to 100% due to rounding. Minor grammatical edits, which do not change the meaning, have been made to some free-text responses. The full results are available on the HEPI website.
+
+## How Students Are Using AI
+
+We asked students for what purposes they had used AI tools since beginning their studies, giving some examples of tools that could be used for those purposes. The most popular use is enhancing and editing writing, for which 37% of students use AI tools such as Grammarly. Three-in-10 students (30%) say they have used AI to generate text using tools like ChatGPT, and a quarter (25%) have used AI for translation, for example using Google Translate. Only about a third of students (34%) say they have not used AI since starting their degree. Smaller proportions used AI for speech-to-text transcription, data analysis, and writing computer code.
+
+In free-text answers, students also describe a range of other uses for AI:
+
+> "To create an essay structure when I'm struggling so I can visualise it better."
+
+> "I have used it as a way to have questions asked to me. For example, I'll give the AI a block of text and ask it to answer questions about the text in an effort to test my knowledge."
+
+> "Generating AI images to use as reference points for my design work."
+
+Not all the answers suggested are connected to students' studies. Other uses include "dinner ideas," "event management," or even simply "inspiration."
+
+Digging deeper into the demographic breaks, we see that while the overall proportion of male and female students using AI is about the same, there is a gender divide in the way it is used. Male students use AI text generators more, and perhaps because of differences in subjects studied, are also much more likely to use AI for data analysis and coding. By comparison, female students more often use AI for editing, translating text and transcription of speech.
+
+We also found age differences in AI use. The youngest students surveyed – 19-year-olds – have used AI relatively little since starting their studies, but this is probably because most 19-year-olds will only have been studying for a few months at the time of the survey. The rates of AI use are significantly higher in the next age bracket, 20 to 24-year-olds, than for students who are 25 and older. This is particularly true for newer AI technologies, such as text generation and coding. These data may suggest that older students have been slower to pick up on new technological developments.
+
+We provided the following brief explanation of generative AI: "Generative AI tools, such as ChatGPT or Google's Bard, generate text in response to prompts." We then asked students whether they had ever used generative AI to prepare assessments and, if so, what they had used it for.
+
+More than half of students (53%) have used generative AI. Of these students, the most popular use is as an "AI private tutor," with 36% of students using AI to explain concepts to them. Other popular uses include suggesting ideas for research and summarising articles. Some students admit incorporating AI text into assessments, with 3% saying they have done so without editing and 5% editing the text first using a digital tool.
+
+As above, men are more prolific users of generative AI than women. Just under half of women surveyed (49%) have used AI to help with their assessments, compared with nearly three-fifths (57%) of men. Younger students typically use generative AI more, except when it comes to including AI-generated text directly in assessed work: 5.5% of those aged 25 and over admitted to including AI-generated text in work without editing, compared with just 1.8% of those aged 20 to 24.
+
+We also found evidence of an AI "digital divide." Among different ethnic groups, Asian students indicate they use AI more often and for a wider range of purposes, with White students using it the least, closely followed by Black students. The results are similar when looking at POLAR quintiles, which categorise areas by the proportion of young people who enter higher education. The most deprived quintiles 1 and 2 have the lowest proportions of AI use, with students from quintile 5 the most likely to say they have used generative AI.
+
+We then asked students which of these uses of generative AI, if any, they would consider acceptable. We found a broad consensus on most issues. A majority of students feel AI is acceptable for explaining concepts (66%), suggesting ideas for research (54%) and summarising articles (53%). Similarly, most students consider using AI for assessments unacceptable, with only 3% considering it legitimate to incorporate AI-generated text into assessed work directly. About one-in-seven students (15%) do not consider any of these uses of generative AI acceptable.
+
+When looking at attitudes to AI use there was a striking age gap, with students aged 25 or over significantly less tolerant of using AI for any purpose. These students are more than twice as likely to consider "None of the above" uses of AI acceptable. We also found those in POLAR quintile 1 particularly intolerant of AI use in assessments.
+
+## Hallucinations
+
+It is known that generative AI tools frequently produce made-up facts, statistics or citations known as "hallucinations." We asked students how often hallucinations appear in text they have generated with AI. They tend to feel that hallucinations are more an occasional problem than a frequent occurrence, with the most popular options being "rarely" (17%) and "quite often" (14%). The most popular option among those who have used generative AI is "don't know," chosen by more than a third (35%) of AI users. While this may suggest students have not used generative AI often enough to know how reliable it is, it may also suggest these students are not making efforts to verify the information produced by generative AI and may be drawing on inaccurate information and citations as a result.
+
+## Assessment
+
+Higher education institutions have been accused of being unclear on the use of AI in assessments. We asked students how clear their institution's policy was. A significant majority (63%) feel their institution has a clear policy on the use of AI, with only one-in-eight students (12%) saying that the policy is unclear. A further one-in-seven students (14%) do not know how clear the policy is, suggesting that clear communication to students on the issue may remain an issue.
+
+Similarly, most students feel their lecturers and tutors are clued-up on how students are using generative AI. Just over half (52%) agree that academic staff "understand well" how AI is being used by students, with a minority (15%) disagreeing.
+
+Students are even more confident that institutions can determine whether AI is involved in producing an assessed piece of work. This may be surprising, as software used to detect AI has consistently failed tests for reliability. Nearly two-thirds (65%) of students are "quite" or "very" confident that lecturers can determine whether AI has been used, with just over a fifth (22%) "not very" or "not at all" confident.
+
+Even here, however, there is evidence of a digital divide. Those in POLAR quintile 5 were much less confident of their institution's ability to spot AI use than other quintiles. This may suggest that more privileged students are better at using AI without detection.
+
+Almost none of the students we asked (1.7%, or 20 rounded to the nearest five) said they had been wrongly accused of using generative AI – though students who have been wrongly accused may be unwilling to admit this in a survey.
+
+We also asked how adaptable institutions have been in response to the growing availability of AI. There is a wide range of responses to this question, illustrating how institutions have responded in very different ways to the availability of generative AI. Around one-in-11 students (9%) say assessment has changed "significantly." But nearly a quarter (24%) say assessment has "stayed the same." A similar number (23%) say it has changed "a little." Many are uncertain about their institution's approach, with nearly a quarter of students (23%) unable to explain whether or how assessment has changed.
+
+## Institutional Support
+
+While many generative AI tools such as ChatGPT, Google Bard and DALL·E are free or have a free version, others such as GPT-4 or Microsoft Copilot must be paid for. We wanted to know whether students see it as their institutions' responsibility to provide paid-for AI tools, given their cost and the potential benefits of using them. We found that students are evenly divided on the question, with about 30% agreeing and 28% disagreeing. A similar number (33%) are neutral on the topic.
+
+We can then compare this with those students who say their institution already provides AI tools. The majority of students (58%) say not, with less than one-in-10 (9%) saying their institution does provide such tools. A third (33%) are unsure. It is clear many more students want AI tools to be provided by institutions than currently are.
+
+We invited those who answered "yes" to say what tools their institution provides. Many of their responses are tools with both a free and paid-for version, such as ChatGPT or Grammarly, possibly indicating that a student's institution pays for the premium version. A few students describe tools which are always free, such as Google Translate, or describe what their institution "allows," suggesting they may not have understood the question.
+
+While students are quite confident that staff understood their AI use for assessments, they are much less positive about how prepared staff are to help them work with generative AI. Under a fifth of students (18%) agree staff are well-equipped, with many more students (29%) disagreeing.
+
+Students are very apathetic overall with the support they have received from their institution. Slightly more students are satisfied (22%) than dissatisfied (17%), but a majority (62%) are either neutral or say they do not know. This suggests students are still unsure of their institution's role in supporting them to use AI.
+
+We then asked students to explain their answers. In responding, students gave two types of answer. We expected them to talk about their institution and the level of support they had received with generative AI. Many students did discuss this, but others took the opportunity to share their wider thoughts on the benefits and risks of incorporating generative AI into their studies.
+
+With regard to the support they receive from their institution, some were very complimentary:
+
+> "It was talked about from day 2. I know what's ok to do and what's not."
+
+> "Generative AI is used as a creative feature in some of my modules, for example using AI in the process of creating music, and this is supported in appropriate contexts."
+
+> "The university has a webpage including tips about using AI, ways to reference it in our work, and ways to stay safe / be responsible when using it."
+
+> "My institution officially recognises the benefits of AI and has given us comprehensive literature with regards to the use of AI."
+
+> "My institution is very clear on how to use AI effectively and the problems with blindly following it."
+
+Others were much more negative. Many highlighted that AI is seen only as a threat or a means to cheat, while the positives and potential benefits are ignored:
+
+> "We are told to not use it and that's it."
+
+> "Beyond emails warning of the consequences of using AI for assessments, it has never been mentioned let alone supported."
+
+> "We are neither being informed, advised, instructed, or assisted to learn more about and deal with AI. All that is done is threatening us that if we use it we face consequences. How can some of us know what exactly is meant with this threat, if they have neither used it nor know how to operate it? I personally would like to learn about it."
+
+> "At my university very little has been taught to us about how to appropriately and effectively use generative AI tools and is still a touch taboo."
+
+> "It seems lecturers and the university are confused with how to proceed with it. They don't know if they should promote or criticise it, which is slightly confusing."
+
+> "I don't know about generative AI. Haven't been taught about it at the university which is disappointing as it sounds very useful and could have saved me countless hours of stress!"
+
+And others struck a balance. Many are unsure how their institution could support them with AI, either because they have never used it or because they feel it is easy enough to use without help:
+
+> "There are clear rules on what is and isn't allowed (in terms of generative AI) but they don't support us personally. It's just you can do this or you can't do this."
+
+> "They haven't provided anything but also I don't think it's necessary for them to do so."
+
+> "[I] selected this answer because I don't know how the university could possibly support students with AI."
+
+> "I was in my first year when ChatGPT became popular and most of my cohort were scared to use it. In my second year, we were almost encouraged to use it as a 'middleman' before asking for help as it is fed English language data as a learning model. I feel as if we should be provided with the skills to aid our education with this tool."
+
+> "We are not allowed to use AI as part of our study, and I am okay with that."
+
+Other comments considered the virtues and pitfalls of AI use more widely. Some students were very positive about the role of AI:
+
+> "It gives straight and detailed answers very quickly."
+
+> "We were encouraged to use AI to debug codes. Debug could take you several hours and AI would do it in seconds."
+
+> "AI has helped me to consolidate my learning by pointing out key points. It also can act as an expert from the field and be able to answer my questions more specifically than Google."
+
+> "Being dyslexic, I rely on using AI to ensure my work is correct and understandable."
+
+But many were highly critical of AI:
+
+> "It repeats itself a lot. I don't use it at all."
+
+> "Generative AI doesn't really apply to my field of the humanities and social sciences yet as what it generates is mostly bollocks. It gets some of the years right but attributes them to different authors, titles, and sums them up completely wrong. I only used it once with a friend as an experiment. I am satisfied with my uni just saying don't use it, as I know it is crap for my field at the moment."
+
+> "Large Language Models (generative AI) are quite ineffective at generating information pertinent to philosophy. I don't think it has much place in the department outside of maybe being a crutch for students who would have it summarise some general topic. [...] I think encouraging its use would only lead to students poorly reconstructing arguments. The department probably feels the same as I do and so has not provided support. [...] They did send an email about generative AI and 'adapting to it,' but that sounds like corporate talk to me."
+
+> "I don't agree with the use of generative AI for the completion of assessments. All work should be the student's own."
+
+> "I do not care for AI. I think it is important for me to be able to complete the work required of me without the help of AI."
+
+> "Because AI has no place at a university and is not allowed at my institute."
+
+And others were more balanced:
+
+> "I haven't used it so I don't know. I'd hate to think classmates are cheating by using AI."
+
+> "Generative AI is still a very new concept. Neither staff nor students really know its place in academia. It is a useful source however is nowhere [near] capable of producing a high-standard piece of writing."
+
+> "It isn't clear to what level we can use generative AI. Could we use it to generate graphics and reference it? Is it possible to reference AI? It is slightly unclear because AI is developing so quickly."
+
+> "As I take an essay-based subject, generative AI is not as widely applicable as it would in other subjects. There is a high workload that AI may be able to help with however with concepts or abstract theories I am unsure how accurate AI can be. I haven't been informed either way by my institution."
+
+> "It's not as big a part of my studies as this survey thinks."
+
+## Preparation for the Future
+
+Finally, we asked students how they expect to use AI after they finish their studies. Nearly three-quarters (73%) expect to use AI for at least one purpose. Perhaps unsurprisingly, the most popular options are those that students say they already use AI for, such as translation (38%), editing content (37%) and summarising text (33%). Many see themselves using AI in other areas, however, with more than a quarter (26%) expecting to use it for data analysis. Less than a fifth of students (19%) see themselves using ChatGPT or other generative AI in the future.
+
+Additionally, more privileged students from POLAR quintile 5 are much more likely to say they expect to use generative AI in the future (23%) than those from quintile 1 (15%), with other quintiles in between.
+
+Students' free-text responses indicate the broad range of ways they expect to draw on AI in the future:
+
+> "Creating art and sound using code generated by AI."
+
+> "I am training to become a primary teacher and AI could be useful for suggesting possible activity ideas for lessons."
+
+> "Maybe getting social media post ideas if I end up using social media to enhance my career."
+
+> "Helping with continued learning."
+
+## Conclusions and Recommendations
+
+Five major conclusions emerge from the above results.
+
+1. **Generative AI has quickly become normalised among students in higher education.** With nearly two-thirds of students having used AI in some form and more than half using it for assessments, there can be no question that the technology has quickly made its way into students' studies. AI has become particularly embedded in a "private tutor" role, where it is used to explain challenging concepts. And it may be here to stay, with students generally comfortable with others using it. They only begin to consider it problematic when others use it directly in assessments, but the number of students using it this way appears to be small for the time being.
+2. **Systems to deal with cheating seem to be having the desired effect, for now.** Most students expect their institution could spot them breaking the rules. They seem to know and understand their institution's policies and think staff understand how they use generative AI. "False positives" – students being falsely accused of using generative AI against the rules – have been raised as a concern, but the number of cases where this has occurred appears vanishingly small. Given how rapidly generative AI has started to influence the higher education sector, the sector might justifiably consider this an early success. But with so many students still unsure about how AI works, the situation could quickly change as students learn more about the limits of AI detection.
+3. **A "digital divide" is beginning to emerge, with some students benefiting from AI more than others.** As with any technological development, some groups have adapted more quickly. While some students are highly proficient with generative AI and use it in sophisticated and varied ways, many others simply do not have an opinion on generative AI or an understanding of how it might affect them. For example, few students know basic facts about generative AI, such as how often it "hallucinates." These data also show that men, students of Asian ethnicity and those from more privileged backgrounds may use generative AI more and be more tolerant of it than women, White and Black students, and those from less privileged backgrounds. This may mean that some groups of students receive the learning benefits of generative AI more than others. It may also mean some groups have been able to – legitimately or not – incorporate it more quickly into assessed work.
+4. **Students want more support with AI and more AI tools to be provided for them.** While many institutions appear to have clear policies on what is acceptable or not, they have been much slower to embrace the potential benefits of AI for enhancing learning. Perhaps because many powerful tools such as GPT-4 must be paid for, many more students want their institutions to provide AI tools than currently do. Failing to do so may increase the digital divide, as the students who can pay for such tools do so while others fall behind. But many institutions may be understandably wary of encouraging the use of AI tools. Free-text responses indicate that many students are also highly sceptical of the benefits of AI. There is work to do to constructively integrate AI with learning in a way that does not undermine educational provision.
+5. **The "digital divide" may apply to institutions' use of generative AI as much as students.** The UK higher education sector is often accused of moving slowly, but that is only partly true of its approach to generative AI. While many institutions have kept their historical approach, others have moved rapidly to integrate AI with their educational provision. Both approaches appear to carry risks. But given the potential benefits of embracing AI in improving the student experience and most students expecting to use AI in the future, it seems unlikely that any institution can avoid tackling it head-on for long.
+
+Based on the above, we recommend:
+
+1. Institutions should develop clear policies on the acceptable use of generative AI in learning and assessment, and efforts should be made to communicate these to students from the beginning of their course. For the major types of generative AI tools – text generators, image generators, copilot tools, coding tools and so on – institutions should determine which uses can support learning constructively and which may be detrimental. This may be left up to individual departments to decide and should be reviewed regularly as AI tools become more powerful. They may choose to apply existing guidance, such as that published by the Joint Council for Qualifications, to determine whether AI was used in producing assessments.
+2. Where generative AI is identified as having benefits for learning, institutions should teach students how it can be used appropriately and effectively. This might include instruction on the different kinds of AI that are available, how to write an effective "prompt" (input), and how to evaluate the quality of content generated by AI. Particular efforts might be made to increase AI literacy among students who have yet to use generative AI, which this survey suggests remains a large group, as long as this can be done alongside efforts to prevent more violations of assessment rules.
+3. Equally, when generative AI tools are beneficial for learning, efforts should be taken to equalise access to them. Where students are permitted or encouraged to use paid-for AI tools such as GPT-4, institutions should consider funding subscriptions to these tools, as many institutions already do for other digital tools. This may occur only in exceptional cases, such as through digital hardship funds. When a tool is essential for learning, such as an AI debugging tool for a coding course, it might be purchased systematically and made available to all.
+4. National policymakers, such as the Department for Education in England, should urgently commission a review of how assessment will be affected by generative AI. The threats to robust assessment are likely to grow more pronounced over time as AI tools become more sophisticated and students more adept at using them. The problem is unlikely to be solved by AI detectors, which are not yet reliable enough to use and may struggle to catch up to increasingly powerful generative tools. The national regulators should also publish routine guidance on how institutions can identify and respond to AI challenges in assessment.

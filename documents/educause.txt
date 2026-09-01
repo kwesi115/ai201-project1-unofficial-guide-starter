@@ -1,0 +1,111 @@
+# How Higher Education Staff Feel About and Use Generative AI
+
+**Source:** EDUCAUSE QuickPoll Report
+
+EDUCAUSE is helping institutional leaders, technology professionals, and other staff address their pressing challenges by sharing existing data and gathering new data from the higher education community. This report is based on an EDUCAUSE QuickPoll. QuickPolls enable EDUCAUSE to rapidly gather, analyze, and share input from the community about specific emerging topics.
+
+## The Challenge
+
+In a QuickPoll report published earlier this year, EDUCAUSE offered an initial investigation into the nature and scope of generative AI's arrival in higher education. As the use of these technologies becomes more widespread, institutions will increasingly be faced with questions about longer-term implications. How will staff use these technologies themselves in their day-to-day work? To what degree will staff be called upon to guide and support the institution's adoption and use of these technologies? This report explores these longer-term questions that lie ahead.
+
+## The Bottom Line
+
+Attitudes toward generative AI have improved over just the past few months, and these technologies are becoming more widely used in day-to-day institutional work. As more stakeholders are introduced to these technologies, the desire for and scale of adoption are likely to accelerate. Institutions must establish appropriate staffing and governance structures to support the use of these technologies and consider which particular use cases align with their needs and comfort levels.
+
+## The Data: How Are We Feeling About Generative AI?
+
+Attitudes about generative AI in higher education are improving. In the earlier QuickPoll, 54% of respondents rated their disposition toward generative AI as "optimistic" or "very optimistic." In this month's QuickPoll, that number has increased to 67% of respondents.
+
+**Figure 1. Disposition toward Generative AI, February QuickPoll and Current QuickPoll.** Comparing the results of a question about disposition toward generative AI that was polled in February 2023 and again in April 2023, attitudes improved over that period: the proportion who said they were pessimistic or very pessimistic fell from 12% to 11%, those who were neutral fell from 28% to 18%, and those who were optimistic or very optimistic rose from 54% to 67%.
+
+Asked about their agreement with specific statements about generative AI, a strong majority of respondents (83%) agreed that these technologies will profoundly change higher education in the next three to five years (see Table 1). These changes could be positive or negative. More respondents agreed than disagreed that generative AI would make their job easier and would have more benefits than drawbacks. However, more respondents agreed than disagreed that the use of generative AI in higher education makes them nervous, perhaps an acknowledgment of the potential risks of these technologies, however beneficial.
+
+**Table 1. Agreement with Statements about Generative AI**
+
+| Statement | Disagree | Neutral | Agree |
+|---|---|---|---|
+| Generative AI will profoundly change higher education in the next three to five years. | 4% | 13% | 83% |
+| The use of generative AI in higher ed has more benefits than drawbacks. | 12% | 23% | 65% |
+| Generative AI will make my job easier. | 17% | 24% | 59% |
+| The use of generative AI in higher ed makes me nervous. | 32% | 23% | 45% |
+
+The use of generative AI could lead to improved dispositions and accelerated adoption. Respondents who have used generative AI differed significantly in disposition from those who have not (see Table 2). Those who have used generative AI were far more optimistic about the technology and were more likely to agree that generative AI is going to "profoundly change" higher education in the next three to five years and that the use of generative AI in higher education has more benefits than drawbacks. And in the starkest contrast between users and nonusers, a full three-quarters of those who have used generative AI agreed that it will make their job easier, compared with just under a quarter of those who have not used it.
+
+**Table 2. Attitudes about Generative AI by Use and Non-Use**
+
+| Attitude | Have Used Generative AI | Have Not Used Generative AI |
+|---|---|---|
+| I am optimistic. | 82% | 45% |
+| Generative AI will change higher ed. | 86% | 76% |
+| Generative AI will make my job easier. | 75% | 23% |
+| Generative AI has more benefits. | 73% | 47% |
+| Generative AI makes me nervous. | 41% | 53% |
+
+What to make of these differences? Those who are more optimistic about a new technology to begin with might also be more likely to seek hands-on experience with that technology. The "technopositive" among us may simply be quicker to use and look for the benefits of new technologies.
+
+It is also possible, though, that experience using a new technology can lead to more familiarity with and warmer feelings toward that technology (what social psychologists call the "mere exposure effect"). As opportunities for hands-on encounters with generative AI expand from here, more and more users may find their initial concerns or uncertainties allayed and come to express more positive dispositions toward (and more frequently use) these technologies.
+
+## The Data: How Are We Using Generative AI?
+
+Generative AI, though emergent, is becoming widely adopted in day-to-day work. The majority of respondents (67%) reported that they've used a generative AI tool for their work in the current 2022–23 academic year, and another 13% reported that they anticipate using generative AI in their work in the future. This leaves only 20% of respondents who reported that they have not used, and do not anticipate using, generative AI in their work.
+
+**Figure 2. Distribution of Generative AI Use and Intended Use.** Of respondents, 67% have used generative AI for their work, 13% anticipate using it in the future, and 20% have not used it and do not anticipate using it.
+
+While the majority of respondents have used or anticipate using generative AI, this practice appears to still be emergent. Only 21% of respondents reported using generative AI in their work "frequently" or "very frequently." Meanwhile, a plurality of respondents (41%) reported using it "more than once or twice, but not very frequently," and another 14% reported using it "only once or twice." Among those respondents who've used generative AI, though, 77% reported being satisfied with the results of using it, and a full 96% anticipated continuing to use it in the future.
+
+Generative AI may be more readily adopted in specific areas of work. Asked to describe the use of generative AI in their work, respondents highlighted use cases clustering around four common areas of work: Dreaming, Drudgery, Design, and Development. Although real risks arise that generative AI could be used to replace human activity in these areas, most respondents described generative AI more in assistive terms, as technologies that augment, rather than replace, human activity.
+
+**Figure 3. Four Generative AI Use Cases.** Examples of the four types of use cases respondents identified for generative AI: Dreaming includes brainstorming and asking questions; Drudgery includes drafting administrative documents and sending emails; Design includes creating presentations or course materials; and Development includes drafting policies and developing strategic plans.
+
+Presenting an organized picture of the distinct types of use cases for generative AI in this way might help individual staff members discover one or several particular areas where they would feel most comfortable experimenting with and using these technologies. Even better, institutional leadership might consider whether and how certain use cases could present more or less risk to the institution, could be more or less in need of stricter policies and governance, and could help the institution realize more gains in efficiency in areas of greater staff need.
+
+## The Data: How Are We Supporting Generative AI?
+
+Gaps appear in formal responsibilities for institutions' use of generative AI. Respondents were asked a series of questions about the responsibilities they and others have regarding their institution's adoption or use of generative AI. Just over half of respondents (53%) reported that they themselves have current responsibilities related to generative AI at their institution, and another 7% reported that someone else at their institution has these responsibilities. This leaves a full 40% of respondents who indicated either that no one at their institution has these responsibilities or that they are unaware of anyone at their institution having these responsibilities.
+
+**Figure 4. Distribution of Generative AI Responsibilities.** Of respondents, 53% have current generative AI responsibilities themselves, 7% report someone else at their institution has these responsibilities, and 40% report that no one has these responsibilities or that they are unaware of anyone who does.
+
+Current responsibilities are more senior-level, specialized, and emergent in focus. Looking at generative AI responsibilities by professional role (see Table 3), respondents with leadership positions in the areas of instructional technology and design and senior-most technology leaders (e.g., CIOs, VPs) are far more likely to have these responsibilities. Professional-level staff and non-senior technology staff appear far less likely to have these responsibilities. This pattern may be indicative of an emergent technology that is thus far primarily confined to a specific area of the institution (teaching and learning) and not yet fully integrated into "normal" institutional operations.
+
+**Table 3. Generative AI Responsibilities, by Professional Role**
+
+*"Thinking about your role at your institution, do you have current responsibilities related to your institution's adoption or use of generative AI technologies?"*
+
+| Role | No | Yes |
+|---|---|---|
+| Director, assistant director, or manager of instructional technology (academic computing, etc.) | 10% | 90% |
+| Director, assistant director, or manager of instructional design or faculty development unit (teaching and learning center) | 10% | 90% |
+| Chief technology officer (CIO, VP of IT, deputy/associate CIO, etc.) | 18% | 82% |
+| Instructional design or faculty development professional | 45% | 55% |
+| Director, assistant director, or manager of other IT unit (user services, security, networks, etc.) | 58% | 42% |
+| Other IT professional (programmer, help desk, network, etc.) | 76% | 24% |
+
+Indeed, when asked to describe the generative AI responsibilities they've taken on, respondents highlighted responsibilities that align with senior-level and instructionally focused positions and that support more nascent stages of technology adoption:
+
+- Developing policies and guidelines for appropriate uses of generative AI, to include concerns over academic misconduct and other ethical risks
+- Serving on institution-wide committees and developing institution-wide strategies
+- Advising and educating faculty on course- and research-related applications and appropriate use
+- Assessing generative AI integrations with third-party tools and existing systems
+- Generative AI product selection and assessment
+- Developing training and educational resources for faculty, staff, and leadership
+
+When asked what information and resources would be most helpful in taking on these responsibilities, respondents similarly highlighted items perhaps more helpful for senior-level positions and more emergent technologies:
+
+- Peer-based "how to" examples of how other institutions are adopting and using generative AI
+- Up-to-date knowledge about the trends and developments surrounding generative AI
+- Examples of policies and guidelines that institutions can put into place
+- Communities of practice and/or peer-based interactions for sharing and learning
+- Support for building better collaborations with other units at the institution
+- Thought leadership or advocacy for the values that should be guiding the adoption of generative AI
+
+## Common Challenges
+
+Will institutions invest in the structure and governance needed for effective and appropriate use of generative AI? Only 34% of respondents reported that their institution has implemented, or is in the process of implementing, new and/or revised policies to guide the use of generative AI. In their open-ended comments throughout the survey, many respondents also expressed the need for guidelines to help ensure effective and appropriate use of these technologies. Without clear policies and guidelines, adoption of generative AI could be inconsistent across a campus, leaving an institution vulnerable to the security and ethical risks of inappropriate use.
+
+Lack of role clarity and collaboration could hinder the effective adoption of these technologies. Many institutions lack a dedicated staff person to oversee the adoption and use of generative AI. In cases where there are designated staff responsibilities, these responsibilities may simply be added on to existing roles and/or haphazardly split between functional units. Institutional leaders should consider more sustainable plans for staffing these emerging technologies, bringing together individual units (e.g., teaching and learning, IT, library) to determine how they will work together most effectively.
+
+## Promising Practices
+
+Take the time on your own to experiment with and explore generative AI. Generative AI tools are available now and are easily accessed. The most effective way to learn what's possible with generative AI, either to confirm or allay concerns and uncertainties, and to discern whether and how it could benefit your work and your institution, is simply to try it out. Hands-on experimentation may even present opportunities to contribute to the ways these technologies are developed, improved, and used in the future.
+
+Look for smaller, easier use cases as first steps for yourself, your team, and your institution. The adoption and use of generative AI doesn't have to be an "all or nothing" proposition. As outlined in the four use cases above, there may only be one or two smaller areas of application that make the most sense for you and/or your institution right now. Lower-risk, easier opportunities for using these technologies can be balanced against a measured exploration of what the larger, longer-term possibilities could be.

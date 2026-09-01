@@ -1,0 +1,278 @@
+# Higher Education and AI: Survey Findings
+
+**Source:** Oxford University Press (OUP), June 2024
+
+*Note on this text version: this report is a slide deck built around bar/mean-score charts. Many panels convey their finding only through a chart image with no extractable numeric labels; for those, the slide's headline takeaway (which is text) is preserved below and the chart itself is noted as omitted. Where a table's numbers were embedded as text, they are reproduced in full.*
+
+## Introduction
+
+This report presents the findings of two surveys undertaken by Oxford University Press (OUP) in June 2024: one with undergraduate students, and one with those teaching undergraduate students. The surveys set out to understand the variance in perceptions and use of AI across those studying or working in higher education, and to help inform work with AI in the context of higher education.
+
+The survey questions covered current behaviours and attitudes towards AI, as well as beginning to look to the future role AI might play in higher education. Overall, there were 674 usable responses from students and 841 usable responses from lecturers of undergraduate students. These formed the samples for analyses. The research findings in this report are designed to contribute to the discussion of how AI might fit into the HE sector.
+
+## Summary of Findings
+
+- Just over a quarter (26%) of responding lecturers report having a good understanding of AI tools used for teaching. Students are very slightly less likely to report that they have a good understanding of AI tools (22%).
+- Around 80% of lecturers have used AI to support their teaching, with anti-plagiarism software and AI chatbots being the most popular AI tools to use. However, more students have used AI to support their learning (94%), with AI chatbots also being most popular, followed by writing assistants.
+- Despite students' higher likelihood to have used AI tools, lecturers are more likely than students to have attended training that their institution offers.
+- In response to an open question asking what respondents were most excited about in relation to AI use in teaching and learning, lecturers typically expressed a general curiosity about what AI could do, highlighted its support with new ideas, and its support with productivity or admin tasks. Students similarly wrote about how AI will generally help with learning, and help in a more general sense, as well as how it can support with specific tasks.
+- On the flip side, when respondents commented on what they were most concerned about, lecturers focused on AI limiting skills required for teaching and learning, they mentioned the threat or challenge to education more generally, and concerns around AI being misused. Students' concerns were different – they focused on cheating/plagiarism, concern around an over-reliance on AI, and AI models not being good enough at present.
+
+## Lecturer Attitudes: Statement Agreement
+
+**Overall, 62% of lecturers are concerned about the impact that AI could have on higher education.**
+
+The table below shows the percentage of lecturers who agree or strongly agree with each statement (7-point scale). An asterisk (*) marks negatively phrased statements, where disagreement implies a positive attitude towards AI; a double asterisk (**) marks a statement only asked of the subset of lecturers who had used AI in their research.
+
+| Statement | Agree – strongly agree |
+|---|---|
+| I think it's important to fully assess the implications of using AI before using it in my teaching | 69% |
+| I am concerned about the impact that AI could have on higher education* | 62% |
+| I think that students who use AI will fail to develop the skills required to succeed in academia* | 46% |
+| In general, I think that higher education institutions should allow lecturers/professors to use AI | 35% |
+| Allowing students to use AI will have a negative impact on them* | 35% |
+| Those not using AI will be left behind | 31% |
+| AI will revolutionise how teaching in higher education is conducted | 30% |
+| I enjoy experimenting with AI to see how it could benefit my teaching | 30% |
+| Using AI tools will change how I teach | 30% |
+| Overall, I have benefitted from using AI in my teaching** | 29% |
+| I think AI poses a threat to my role as a teacher* | 27% |
+| I think using AI would have a negative effect on the quality of my teaching* | 24% |
+| In general, I think AI could support my students' learning | 23% |
+| I think using AI will have a negative impact on the trust students have in my teaching* | 22% |
+| I am excited about the prospects of AI for higher education | 21% |
+| I encourage my students to experiment with using AI | 21% |
+| I encourage my colleagues to try using AI to support their teaching | 21% |
+| I think using AI will make the whole teaching process more efficient | 16% |
+| I would like more AI tools implemented in services from organizations | 15% |
+| Nowadays, AI is an essential part of teaching | 15% |
+| I think AI companies have created tools that effectively support teaching in higher education | 13% |
+| I know how to use AI effectively in my teaching | 12% |
+| Overall, AI will not change the world that much* | 5% |
+| I trust AI companies not to use my data without permission | 3% |
+| I trust that my students will use AI ethically | 3% |
+
+## Student Attitudes: Statement Agreement
+
+**Overall, 44% of students believe AI will revolutionise how people learn, and that it will make learning more efficient.**
+
+| Statement | Agree – strongly agree |
+|---|---|
+| I think it's important to fully assess the outputs from AI before using them | 58% |
+| Overall, I have benefitted from using AI in my learning** | 51% |
+| I enjoy experimenting with AI to see how it could benefit me | 48% |
+| AI will revolutionise how people learn | 44% |
+| I think using AI will make my learning more efficient | 44% |
+| I think that higher education institutions should offer general courses on AI | 41% |
+| I am concerned about the impact that AI could have on my future job prospects* | 40% |
+| I think AI companies have created tools that effectively support students | 39% |
+| Using AI tools will change how I work as a student | 39% |
+| I trust my lecturers/professors to use AI responsibly | 39% |
+| I know how to use AI effectively in my learning | 39% |
+| Using AI to generate content for graded assessments is the same as cheating* | 38% |
+| I am excited about the prospects of AI | 36% |
+| In general, I think that higher education institutions should allow students to use AI | 35% |
+| I would like more AI tools implemented in services from organizations | 34% |
+| I think using AI will have a negative impact on the trust my lecturers/professors have in my work* | 30% |
+| I encourage my peers to try using AI | 29% |
+| I would be comfortable receiving written feedback about my work from AI | 26% |
+| Those not using AI will be left behind | 24% |
+| I think AI will devalue the need for a university education in the future* | 22% |
+| I trust AI companies not to use my data without permission | 17% |
+| Overall, AI will not change the world that much* | 8% |
+
+## Lecturers vs. Students: Head-to-Head Comparison
+
+In general, students are more positive about AI than their lecturers. (Differences of 10 percentage points or more were highlighted in the original report; because the two samples are not directly comparable, differences should be treated as indicative only.)
+
+| Statement (teaching / learning framing) | Lecturers (Teaching) | Students |
+|---|---|---|
+| I think it's important to fully assess the implications/outputs of using AI before using it in my teaching / using them | 69% | 58% |
+| Overall, I have benefitted from using AI in my teaching/learning** | 29% | 51% |
+| I enjoy experimenting with AI to see how it could benefit my teaching / me | 30% | 48% |
+| Using AI tools will change how I teach / work as a student | 30% | 39% |
+| I think AI companies have created tools that effectively support teaching in higher education / students | 13% | 39% |
+| I know how to use AI effectively in my teaching / learning | 12% | 39% |
+| In general, I think that higher education institutions should allow lecturers/professors/students to use AI | 35% | 35% |
+| I would like more AI tools implemented in services from organizations | 15% | 34% |
+| I encourage my colleagues/peers to try using AI (to support their teaching) | 21% | 29% |
+| Those not using AI will be left behind | 31% | 24% |
+| I trust AI companies not to use my data without permission | 3% | 17% |
+| Overall, AI will not change the world that much* | 5% | 8% |
+
+## Methodology and Sample
+
+The study was run as an online survey including a mixture of quantitative and qualitative questions. To make sure the survey questions were meaningful, an initial draft was piloted with cognitive interviews on a small sample of students and lecturers. During these interviews, they clarified their understanding of the questions and identified any areas of ambiguity. Subsequent revisions were made based on the interview outcomes before launching the survey.
+
+The anonymous survey ran in June 2024, and data analysis excluded responses that did not go beyond initial questions or that provided formulaic answers.
+
+Respondents' attitudes towards AI were captured via 24 psychometric (attitudinal) questions for lecturers, and 21 for students, each split into 4 sets. Based on their responses to these attitudinal questions, respondents were grouped into segments using k-means cluster analysis. These groups consist of people who are similar to each other in their perceptions, but different to those in the other groups. Respondents to both surveys were predominantly from the UK, US and Canada.
+
+Frequency and crosstab analyses were run for each cluster to understand and describe the groupings better. On all but two statements, differences between clusters were statistically significant at p<.001. The two exceptions are student responses to the statements "Overall, AI will not change the world that much" (p=.098) and "I think AI will devalue the need for a university education in the future" (p=.801).
+
+## Teaching (Lecturer) Segments
+
+A statistical cluster analysis identified 6 groups illustrating the differences between lecturers in their attitudes towards and perceptions of AI, ranging from "Confident Proponents" (those totally embracing AI) to "Threatened AI-opponents" (those who want nothing to do with AI and want it kept away from higher education).
+
+**Table: Teaching Profiles**
+
+| Cluster | Description | N |
+|---|---|---|
+| Confident Proponents | "I enjoy using AI & seeing its positive impact" | 149 |
+| Curious Optimists | "I'm keen to see how AI can support me" | 156 |
+| Cautious Contemplators | "AI might help me, but not my students" | 117 |
+| Undecided Hesitators | "AI might help me, but not my students" | 141 |
+| Worried AI-opponents | "I'm concerned about how AI might impact me" | 103 |
+| Threatened AI-opponents | "Keep AI away from me and education" | 117 |
+
+Additional cluster patterns reported (underlying charts omitted, headline findings preserved):
+
+- Within the survey sample, there is a larger proportion of "Confident Proponents" in Social Sciences, "Threatened AI-opponents" in Humanities and Interdisciplinary, and "Curious Optimists" in STM (Science, Technology, Mathematics). Social Sciences falls between STM and Humanities, and the Interdisciplinary group is fairly evenly split across the 6 profiles. STM has the largest proportion of "Curious Optimists," whereas Humanities has the largest proportion of "Threatened AI-opponents."
+- Lecturers who are based at institutions that they claim allow the use of AI are more likely to be "Confident Proponents," whereas those based at institutions that generally discourage the use of AI are more likely to be "Undecided Hesitators" or "Worried AI-opponents."
+- Overall, 26% of lecturers report having a good understanding of AI tools used for teaching, with a further 55% claiming to have some understanding. Those who report having a good understanding include a greater proportion of "Confident Proponents," whereas those who report having little or no understanding have the largest proportion of "Undecided Hesitators."
+- Around 80% of lecturers have used AI tools; those who are more positive towards AI are more likely to use each type of AI tool. Anti-plagiarism software is most likely to be used by those who are less positive about AI tools, possibly suggesting it is part of an institution's approach to combating the use of AI. "Confident Proponents" are more likely to be using AI for all reasons than all other groups, except for checking for plagiarism; "Worried AI-opponents" are most likely to be using AI to check for plagiarism.
+- Trust in AI companies is fairly low across the board (mean scores on a 1–7 scale, where 1 is strongly disagree and 7 is strongly agree), but more so for "Worried AI-opponents" and "Threatened AI-opponents."
+- Even those who are more positive towards AI include a proportion who feel "concerned" about how AI might be used in higher education. "Worried AI-opponents" and "Threatened AI-opponents" do not report feeling any positive sentiments except curiosity.
+- All groups feel it is important to fully assess the implications of AI before using it in teaching, especially those more averse to AI. "Threatened AI-opponents" most strongly feel that AI poses a threat to their role as a teacher and think that using AI would have a negative effect on the quality of their teaching.
+- There is a large disparity amongst teaching groups about whether AI could support students' learning. Despite encouraging their students to experiment with using AI, "Confident Proponents" err on the side of caution on whether they trust their students to use AI ethically.
+- In general, all groups are concerned, to varying degrees, about the impact that AI could have on higher education. "Worried AI-opponents" are generally less likely to agree with statements about higher education overall than "Threatened AI-opponents," despite being slightly warmer to AI overall.
+
+### What Lecturers Are Excited About
+
+Lecturers were asked to write about what they are most excited about when it comes to AI in relation to teaching and learning; open responses were systematically coded into themes. Overall, almost 2 in 5 say they are not excited about anything or are unsure, with a further 14% giving a very generic "excited about what it can do" answer. Answers more specific to higher education centered on being excited about new ideas or creativity, productivity, and offering a more personalised or enhanced teaching and learning experience.
+
+**Top 3 themes lecturers are excited about:**
+
+- **Positive (general) / curious about what it could do** (N = 93)
+- **New ideas / creativity / finding alternatives** (N = 68)
+- **Productivity / supporting with admin tasks** (N = 52)
+
+Illustrative quotes:
+
+> "Efficiency, automation, simplification of mundane laborious tasks." — [Confident Proponent]
+
+> "AI might relieve the drudgery of improving student writing. AI in the arts could be an amazing way to unlock creativity and democratize access to self-expression." — [Undecided Hesitator]
+
+> "Finding reliable information should be a possible outcome (whether it will be swamped by just wanting it 'done' is another matter). Used carefully and as a starting point, it can help to pull together an article or grant proposal, or perhaps even an outline (but it is oh so very bland)." — [Threatened AI-opponent]
+
+> "I think it's another tool that has the potential to aid learning if designed properly with educational objectives aimed towards critical thinking." — [Curious Optimist]
+
+> "I am more optimistic about AI as a teaching tool as opposed to a student resource." — [Cautious Contemplator]
+
+> "Back-end software to make LMS capable of actually monitoring student progress. More efficient detection of AI-generated papers. What I'd really like is an AI that would compile and file academic misconduct reports for me, so that I could sanction and report cheaters at the touch of a button." — [Worried AI-opponent]
+
+> "I really love pushing the edge of technology on my teaching. I feel as if the movement toward AI is validating my approach to pedagogical experimentation." — [Confident Proponent]
+
+> "AI technology might help reduce time spent on administration, leaving more time for teaching." — [Undecided Hesitator]
+
+### What Lecturers Are Concerned About
+
+Lecturers were asked to write about what they are most concerned about when it comes to AI in relation to teaching and learning; open responses were systematically coded into themes. Of areas of concern raised, the belief that using AI limits the skills required for teaching and learning is mentioned by almost half. The second most mentioned theme is that AI is a threat or challenge to education, indicating that HE lecturers fairly strongly feel some concern for the future of education on the whole. Unethical use of AI and cheating or academic dishonesty are mentioned by over 1 in 10, demonstrating that it is the malicious use of AI that is a key concern.
+
+**Top 3 themes lecturers are concerned about:**
+
+- **Using AI limits skills required for teaching/learning** (N = 314)
+- **Threat/challenge to education** (N = 121)
+- **Unethical use/misuse/ethical concerns** (N = 96)
+
+Illustrative quotes:
+
+> "Increased workload of checking that students are meeting their learning outcomes rather than using AI generated assignments." — [Confident Proponent]
+
+> "The de-skilling of students and their cognitive abilities. I am not sure where I will find the time to up-skill myself." — [Cautious Contemplator]
+
+> "The purpose of doing the hard work of writing, reading, proofreading, maths, etc., is not to have them done, but to learn from the process. Tools that allow students to bypass those processes are robbing them of learning, and they are not mature enough to realize what they've missed out on." — [Undecided Hesitator]
+
+> "That education will just become AI papers graded by AI graders and none of it will be worthwhile." — [Worried AI-opponent]
+
+> "I fear that AI will lessen the quality of our degrees, esp. in the social sciences. People may adopt an attitude of 'I don't need to know how to think critically and communicate effectively, the AI will do that for me.'" — [Threatened AI-opponent]
+
+> "Misuse of AI for academic dishonest behaviours." — [Cautious Contemplator]
+
+> "Ethical issues concerning training models on protected work. The recycling of styles and ideas without further creative/intellectual input. Students using AI to complete assignments rather than to help them organize their thoughts." — [Undecided Hesitator]
+
+> "I am concerned with the abuse and misuse of AI to replace critical thinking processes." — [Curious Optimist]
+
+> "The negative impact on skills, critical and independent thinking, and ethics." — [Worried AI-opponent]
+
+## Student Segments
+
+A statistical cluster analysis identified 3 groups illustrating the differences between students in their attitudes towards and perceptions of AI. Comparatively, students' perceptions and attitudes are less nuanced than their lecturers – one hypothesis is that they are less invested in the impact of AI on HE in general, so there is less differentiation between them as a group overall.
+
+**Table: Student Profiles**
+
+| Cluster | Description | N |
+|---|---|---|
+| Enthusiasts | "AI is going to be brilliant for supporting my education" | 222 |
+| Deliberators | "I am curious about how AI can help me" | 324 |
+| Cynics | "I am concerned about AI, both for my education and my future" | 119 |
+
+Within the sample, there is a larger proportion of "Deliberators" overall, followed by "Enthusiasts," then "Cynics," indicating that at an overall level, students are warmer towards AI than their lecturers. Those who report having a good understanding of AI are most likely to be "Enthusiasts," whereas those with little or no understanding are most likely to be "Cynics." When there is a good understanding of AI, attitudes toward AI are more positive.
+
+Additional cluster patterns reported (underlying charts omitted, headline findings preserved):
+
+- Overall, 94% of students have used some form of AI to support their learning, with "Cynics" most likely not to have used any type of AI. "Enthusiasts" and "Deliberators" are most likely to have used AI chatbots or writing assistants, but "Deliberators" are marginally more likely to have used machine translation than "Enthusiasts." "Enthusiasts" are most likely to use AI to summarise content, and "Deliberators" to explain content in another way.
+- "Enthusiasts" most strongly agree with all statements about AI in general (mean scores on a 1–7 scale). There is no statistically significant difference between the groups in their agreement on whether AI will change the world.
+- Overall, around half of students report feeling "curious" or "optimistic" about how AI might be used to support their learning. "Enthusiasts" are most likely to report being "optimistic." "Deliberators" are most likely to report that they are "curious," whereas "Cynics" report being "concerned" and "apprehensive."
+- "Cynics" most strongly feel that using AI has a negative impact on trust from lecturers and that using AI for assessments is cheating. "Cynics" are most uncomfortable with receiving written feedback about their work from AI, further cementing their sentiments of being concerned and apprehensive about the use of AI to support learning.
+- "Enthusiasts" more strongly agree that higher education institutions should offer general courses on AI. All groups lean towards being concerned about the impact that AI could have on their future job prospects, and all groups have a similar level of uncertainty about whether AI will devalue the need for a university education in the future.
+
+### What Students Are Excited About
+
+Students were asked to write about what they are most excited about when it comes to AI in relation to learning; open responses were systematically coded into themes. Overall, students are most excited about how AI will help with learning in general, though 16% report that they are not excited about anything when it comes to AI in relation to learning.
+
+**Top 3 themes students are excited about:**
+
+- **Will help learning/teaching in general** (N = 168)
+- **Excited in general (not specific to learning)** (N = 158)
+- **Supporting with specific tasks** (N = 141)
+
+Illustrative quotes:
+
+> "I am excited and curious about the different ways AI will help me during my studies. It could give me help during revision, how to take notes, how to structure my work but also get ideas on topics." — [Enthusiast]
+
+> "How it can be used to optimise learning and what changes will come about to standard learning as we know it now." — [Deliberator]
+
+> "How it can help you to learn more efficiently and give you quick and detailed feedback." — [Cynic]
+
+> "I really think AI will help advance everyone who is willing to learn about it and use it." — [Enthusiast]
+
+> "AI increases opportunities tenfold. It is an exciting prospect that could revolutionise the way in which the world works and could help education become far more accessible." — [Deliberator]
+
+> "I'm excited to see what it CAN do but I'm nervous to see what they will MAKE it do." — [Cynic]
+
+> "I am excited about being able to gather information quickly and more efficiently." — [Enthusiast]
+
+> "Quicker translations of texts and also speech. As well as more instant transcription for live lectures." — [Deliberator]
+
+> "I think it could be good if used to reduce mundane chores and tasks but not for creativity." — [Cynic]
+
+### What Students Are Concerned About
+
+Students were asked to write about what they are most concerned about when it comes to AI in relation to learning; open responses were systematically coded into themes. Cheating or plagiarism is the main concern amongst students, followed by an over-reliance on AI encouraging laziness.
+
+**Top 3 themes students are concerned about:**
+
+- **Cheating/plagiarism** (N = 124)
+- **Over-reliance on AI/encourages laziness** (N = 111)
+- **AI not good enough/biased/inaccurate** (N = 91)
+
+Illustrative quotes:
+
+> "I'm concerned that a lot of people are gonna get carried away and they are going to start using it more for cheating than learning, and I feel like it's gonna help you more in learning than using it for cheating." — [Enthusiast]
+
+> "I'm concerned about using it to cheat. It stealing people's work. It not understanding the work it is criticizing." — [Deliberator]
+
+> "I do not think AI has a place in the education system and I think using it is cheating." — [Cynic]
+
+> "I am concerned people will over use AI to the point where there are no original thoughts or opinions in peoples work. I also think that if people over use AI in assignments that they are not actually comprehending what they are doing the assignment about." — [Enthusiast]
+
+> "People will stop trying to think for themselves they will become dependent of the technology, they are not going to be able to solve problems by themselves." — [Deliberator]
+
+> "I am really concerned about the dependency on it." — [Cynic]
+
+> "I'm concerned with it giving me the wrong answers because there's so much information out there. You have to make sure what you get is correct." — [Enthusiast]
+
+> "I am concerned of misinformation and lack of human contact as in the loss of tangible resources which gaining knowledge. It may not be the most credible source." — [Deliberator]
+
+> "AI will decrease the reliability of academic work. It will increase cheating. This will devalue education." — [Cynic]

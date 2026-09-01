@@ -3,9 +3,16 @@ chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# Chunking — token counting for the ~500-token / 100-overlap chunk strategy:
+tiktoken==0.14.0
+
+# Query interface (Milestone 5):
+# Pinned to 5.49.1, not the >=6.9.0 default: gradio 6.x requires
+# huggingface-hub>=1.0, which conflicts with transformers' <1.0 pin
+# (pulled in by sentence-transformers) and breaks embedding. 5.49.1
+# is the newest release whose huggingface-hub range (<2.0,>=0.33.5)
+# still overlaps with that constraint.
+gradio==5.49.1
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4

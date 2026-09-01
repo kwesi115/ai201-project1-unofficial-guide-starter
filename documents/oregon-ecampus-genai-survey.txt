@@ -1,0 +1,445 @@
+# Online Students' Perceptions of Generative AI
+
+**Source:** Oregon State University Ecampus Research Unit, July 2024. Authors: Mary Ellen Dello Stritto, Ph.D.; Greta R. Underhill, Ph.D.; Naomi R. Aguiar, Ph.D.
+
+*Note on this text version: the report's full survey instrument (Appendix A) and supplementary demographic data tables (Appendix B) have been omitted here since their content is already summarized in the Results and Description of Respondents sections below. See the original PDF for the complete appendices.*
+
+## Definitions
+
+**Generative AI Tools:** Tools that are capable of generating text, images, or other media. Examples included: ChatGPT, Bard, DALL-E, Copilot, and Claude.
+
+**Professional Activities:** Anything outside of academic work that supports career goals, which could include activities such as a current job, internship, volunteering, and job-seeking activities.
+
+**Personal Activities:** Anything outside of academic or professional work such as entertainment, personal growth, hobbies, household activities, and family activities.
+
+## Key Findings
+
+**Knowledge and use of generative AI tools**
+
+- Participants demonstrated a deep knowledge of generative AI; however, the majority of participants had not used generative AI tools in their Ecampus courses. About half indicated they had used generative AI for professional and personal activities.
+- Compared to fully online students, campus-based students, who were an average of 10 years younger, reported using these tools on a more frequent basis. Two-thirds of all respondents indicated they were using generative AI tools for brainstorming/generating ideas, code, or content.
+- Participants were split in their responses about using generative AI tools in Ecampus courses, integrating them in their coursework, and receiving guidance from their instructors.
+
+**Utility and value of generative AI tools**
+
+- Although most participants were skeptical about the accuracy, trustworthiness, and reliability of generative AI tools, most agreed that knowing how to use generative AI would help them get a job, help at work, and help in their careers. However, they were less likely to agree that it would help their grade in a course.
+
+**Course policies about generative AI**
+
+- A significant number of participants indicated that generative AI tools were not addressed at all in their online courses. When they were addressed, participants experienced many different policies, levels of guidance, and degrees of clarity about policies regarding the use of generative AI.
+- About three-quarters of undergraduate and post-baccalaureate participants indicated they had at least one instructor who did not allow any use of generative AI, compared to one-third of graduate students.
+- Participants expressed strongly held values that influenced their views on the course policies and integration of generative AI tools. Some participants wanted education about generative AI tools but did not want them allowed or integrated into their courses.
+
+**Emotions, hopes and concerns**
+
+- Participants selected and expressed a multitude of strong emotions about generative AI tools. Often, they expressed both positive and negative emotions simultaneously. While "curious" and "concerned" were the topmost selected emotions, participants wrote in 54 other unique emotions that were overwhelmingly negative.
+- Participants expressed a staggering number of concerns about generative AI. The top three concerns were: the inaccuracy of the tools, potential job loss or changes, and the generation of mis- and disinformation.
+- Participants expressed specific concerns about how their educational experiences would be impacted by generative AI tools. Some were concerned that generative AI tools would degrade the value of their education, impacting their decisions to drop courses or transfer to other institutions. Some participants said they would not be willing to pay for courses that integrated generative AI tools.
+- Participants expressed fewer hopes about generative AI compared to the number of concerns. Their hopes were shallow, vague, and reflected the common language used by the technology companies to market these tools.
+- When hopes were expressed, participants used this as an opportunity to repeat their concerns and express pessimism about their futures with generative AI.
+
+## Results
+
+The goal of this study was to survey students taking online courses at Oregon State University about their perceptions, understanding, and use of generative AI tools. The results of this survey will help the Division of Educational Ventures better support students' use of generative AI and support Oregon State faculty in their course development and facilitation of online courses.
+
+When designing this survey, we were guided by the following questions:
+
+1. What do online students understand about currently available generative AI tools?
+2. How are online students currently using generative AI tools?
+3. How do online students perceive generative AI tools?
+
+The 669 respondents to this survey took at least one Ecampus online course in Fall of 2023. A total of 411 (61.4%) were fully distanced students taking Ecampus online courses only. The remaining respondents were campus-based students taking Ecampus online courses, of which 228 (34.1%) were Corvallis campus-based students and 21 (3.1%) were Cascades campus-based students. Nine (1.3%) others indicated they were enrolled in hybrid programs or were based in the Portland campus.
+
+The respondents were found to be demographically similar to the overall Ecampus and Corvallis campus populations at Oregon State University.
+
+### Defining Generative AI
+
+The survey began with the open-ended question, *What does Generative AI mean to you?* This question helped to determine participants' knowledge of these tools. Their responses indicated knowledge of what generative AI is, what it does, and how it works.
+
+**What Generative AI is.** The most frequent references, from qualitative coding of open-ended responses, are shown below. At the most practical level, participants identified it as a type of artificial intelligence, a program, a large language model, a neural network, a system, predictive machine learning, etc. Others abstracted further, defining it through its potential applications: a tool, an advancement for science, an invaluable resource, a learning resource, an accessibility aid, a search engine "on steroids," progress, etc. Only a small number of participants indicated confusion about the technology.
+
+**Table 1. What generative AI is (coded references from open-ended responses)**
+
+| Code | References |
+|---|---|
+| Type of Artificial Intelligence | 139 |
+| Tool | 73 |
+| Program | 47 |
+| Large Language Model | 28 |
+| Algorithms | 19 |
+| Machine Learning | 19 |
+| Model | 18 |
+| Technology | 12 |
+| Google On Steroids | 9 |
+| System | 9 |
+
+**What generative AI does.** Participants also identified the range of things generative AI tools can do. Most literally, participants identified that these tools can generate content such as text, images, videos, audio, music, code, and data. Participants also described more complicated actions they perceived these tools can take, such as analyzing, synthesizing, learning, assisting, summarizing, automating, critiquing, and thinking. Interestingly, the term "create" was referenced 60 times in responses to this question, an interesting contrast to the term "generate," which participants were primed to use through the survey's framing.
+
+**Table 2. What generative AI does (coded references)**
+
+| Code | References |
+|---|---|
+| AI Can Generate Text | 120 |
+| AI Can Generate Images | 102 |
+| AI Can Generate Content | 78 |
+| AI Creates | 60 |
+| AI Can Generate Videos | 39 |
+| AI Can Generate Output | 31 |
+| AI Answers Questions | 27 |
+| AI Scrapes the Internet | 19 |
+| AI Can Generate Art | 15 |
+| AI Can Generate Audio | 15 |
+| AI Predicts | 10 |
+
+**How generative AI works.** Participants readily described that these tools respond to prompts (129 references) and that the tools' outputs attempt to replicate human work, appear to be new content, and attempt to be relevant and accurate. However, fewer participants identified that generative AI tools draw on large training sets, and even fewer identified that a human user inputs a prompt — a conspicuous absence in participants' description of the process.
+
+**Table 3. How generative AI works (coded references)**
+
+| Code | References |
+|---|---|
+| AI Responds to Prompts | 129 |
+| Training Data | 47 |
+| User | 14 |
+
+Overall, a few participants indicated confusion about these tools and how they work, the most common misconception being that these tools actively scrape the internet for real-time data. However, responses to this open-ended question indicate students possessed deep knowledge of these new tools.
+
+### Awareness and Suggested Use
+
+When asked if they had heard of generative AI tools such as ChatGPT, Bing, Copilot, and Claude or other tools, 546 (81.6%) indicated "yes," 62 (9.3%) "no," and 61 (9.1%) "unsure." Only the 546 who had heard of generative AI were included in the analysis in the following sections of this report.
+
+When asked if anyone suggested they use generative AI tools in their Ecampus courses at OSU, the majority, 335 (61.8%), responded "no," followed by 179 (33%) responding "yes," and 28 (5.2%) "unsure." Those who selected "yes" were asked to identify who suggested using generative AI tools: "instructors" (119, 66.5%) and "peers" (101, 56.4%) were most frequently selected, followed by "co-workers" (39, 21.7%) and "family members" (35, 19.6%).
+
+**Table 4. Who suggested generative AI tool use in Ecampus courses (N = 179, select all that apply)**
+
+| Who suggested | Frequency | Percent |
+|---|---|---|
+| Instructors | 119 | 66.5% |
+| Peers | 101 | 56.4% |
+| Co-workers | 39 | 21.7% |
+| Family Members | 35 | 19.6% |
+| Teaching Assistants | 18 | 10.1% |
+| Other, please explain | 14 | 7.8% |
+| Academic Advisors/Coaches | 8 | 4.5% |
+
+Six of those who selected "other" indicated they had instructors who suggested they should have a basic understanding of generative AI tools, or the instructors suggested very limited use. A few participants indicated they had conversations with others; for example, one wrote that "thought leaders, podcasters" had suggested use of these tools.
+
+### Current Degree of Use
+
+Generative AI use was measured across three domains: Ecampus courses in Fall 2023, professional activities in the last 6 months, and personal activities in the last 6 months. A majority, 322 (59.5%), indicated they had not used generative AI in their Ecampus courses while 203 (37.5%) had used generative AI, with 16 (3%) "unsure." A slightly larger percentage responded they had used generative AI tools for professional activities (232, 43.8%), but the majority had not (293, 55.3%), with 5 (0.9%) "unsure." The highest use was in the personal domain, with 281 (53.3%) indicating that they had used generative AI for personal activities (e.g., hobbies, household or family use), while 233 (44.2%) indicated they had not and 13 (2.5%) were "unsure."
+
+There were significantly different response patterns between the Ecampus and Corvallis campus students in frequency of course-related use. A larger percentage of Corvallis students indicated they used these tools "weekly" (31, 48.4%) compared to Ecampus students (42, 33.9%). A larger percentage of Ecampus students indicated they used generative AI tools "once in a while" (49, 40%) compared to Corvallis campus students (16, 25%). Daily and monthly use were similar. Eleven percent chose "other" in each group; most of these respondents indicated they had used generative AI one time in a course.
+
+Participants were asked what generative AI tool they used most often in Fall 2023 Ecampus courses. The overwhelming majority of respondents (159, 78%) replied with "ChatGPT." Other tools that were mentioned 5 or fewer times were "Bard," "Bing," "CoPilot," "Grammarly," "Quillbot," and "Claude."
+
+Participants were asked to select any of the ways in which they used generative AI tools in their Ecampus courses and in their professional activities. The most frequent use was "brainstorming" in both the Ecampus courses (66%) and professional activities (65%). "Explaining difficult concepts" was the second most frequent use in Ecampus courses (62%); in contrast, the second most frequent use in professional activities was "proofreading writing content." Participants were more likely to use generative AI to "learn new content or skills" in Ecampus courses (51%) compared to in their professional activities (39%). Similar percentages of students were using generative AI to summarize and synthesize content in both domains.
+
+**Table 5. Generative AI tool use in Ecampus courses and in professional activities (select all that apply)**
+
+| How did you use generative AI tools... | Ecampus Courses (n=197) | Professional Activities (n=231) |
+|---|---|---|
+| Brainstorming/generating ideas, code, and/or content | 66% | 65% |
+| Explaining difficult concepts to me | 62% | 35% |
+| Learning new content or skills | 51% | 39% |
+| Summarizing and synthesizing content | 46% | 41% |
+| Proofreading writing content | 42% | 51% |
+| Analyzing or interpreting data or ideas | 32% | 29% |
+| Debugging code for assignments | 21% | 22% |
+| Generating practice materials for studying | 20% | — |
+| Other, please explain | 15% | 15% |
+| Accommodating for an accessibility issue | 11% | 8% |
+| Organizing my schedule | 9% | 10% |
+| Translating text into another language | 8% | 15% |
+| Making resumes, cover letters, or applications for internships/jobs | — | 40% |
+| Getting support and advice about professional matters | — | 30% |
+
+In Ecampus courses, 29 (14.7%) selected "other" purposes. Seven described using generative AI for writing support such as creating outlines for papers or essays, edits to a cover letter for a course assignment, and help with paraphrasing. Four indicated they used generative AI because of a class assignment. Four used tools to find sources, and two used them to generate images. Four indicated using generative AI as a type of class tutor:
+
+> "I use ChatGPT like a tutor; asking it questions about new topics and if my alternate ways to view or interpret things are valid."
+
+> "I also used ChatGPT to help me with reviewing extra math problems that were not associated with graded work. I would enter the problem and answer to check my work. I found that over 50% of the time, ChatGPT was incorrect anyways."
+
+> "I use chatGPT frequently when a course does not have examples available — I have a learning disability that makes breaking tasks or processes down into logical steps to learn to do them or to solve them very challenging, so having an example that is worked through step-by-step, or to see what the end product I'm working towards should look like, is the only way for me to fully grok a concept."
+
+One indicated they used generative AI as an alternative to a web search:
+
+> "Researching non-core topics that get brought up in the courses (using GPT4 instead of Google for research and getting quick answers about a subject)"
+
+Another described using generative AI as an alternative to conversing with their professor:
+
+> "conversation about whatever I am curious about at anytime, furthers my understanding quickly without having to wait for a professors response to an email or something"
+
+For professional activities, 92 (39.8%) indicated they used generative AI to make "resumes, cover letters, or applications for internships/jobs," and 70 (20.3%) used generative AI for "getting support and advice about professional matters." A few (19, 8.2%) reported using it for "accommodating an accessibility issue" in their professional activities. In professional activities, 35 (15.2%) selected "other" purposes; seven described generating images, four described using generative AI for writing support (e.g., "blogging"), and five described using generative AI for research projects, with one indicating use for "academic work/thesis as a graduate student."
+
+### Interest
+
+233 (43.7%) responded that they were interested in using generative AI tools in their Ecampus courses, 144 (27%) were not interested, and 104 (19.5%) were "unsure or didn't know." Of those who responded with "other" (52, 9.8%), some responded with "yes, but..." "It depends," or "to a degree." A few others indicated their response was "no" and explained why use in courses was "a terrible idea."
+
+Participants were divided on whether they wanted generative AI tools integrated into their Ecampus coursework at OSU in the next 6 months. Almost identical numbers responded "yes" (182, 35.8%) and "no" (181, 35.6%). Further, 145 (28.5%) were "unsure." These findings indicate a lack of a majority opinion on the integration of generative AI in coursework.
+
+### Guidance
+
+Participants' interest in receiving guidance from instructors in the next 6 months on how to use generative AI in their Ecampus coursework was also equally distributed. The largest number were "not at all interested" (144, 28.3%), followed by "somewhat interested" (137, 27%). However, 92 (18.1%) were "interested" and 108 (21.3%) were "very interested." Twenty-seven (5.3%) who selected "other" indicated they were graduating, "didn't care," or responded with some variation of "it depends."
+
+The results varied by education level. The largest number of undergraduate participants indicated they were "not at all interested" in guidance (102, 31.5%), while the largest number of graduate student participants were "somewhat interested" (35, 34.7%). Among the post-baccalaureate participants, the largest number were "very interested" in guidance (18, 30.5%); however, nearly the same number, 17 (28.8%), were "not at all interested."
+
+**Table 6. Interest in guidance from instructors on how to use generative AI tools in Ecampus coursework, by education level**
+
+| Level of interest | Undergraduate (n=324) | Post-Baccalaureate (n=59) | Graduate (n=101) |
+|---|---|---|---|
+| Very interested | 17.9% | 30.5% | 29.7% |
+| Interested | 17.6% | 23.7% | 18.8% |
+| Somewhat interested | 26.5% | 15.3% | 34.7% |
+| Not at all interested | 31.5% | 28.8% | 13.9% |
+| Other | 6.5% | 1.7% | 3% |
+
+Combining the numbers of "interested" and "very interested" revealed that the post-bacc participants showed the greatest level of overall interest in guidance (54%). Just less than half (49%) of the graduate-level participants were interested or very interested in guidance, compared to 36% of undergraduate participants.
+
+### Career and Education Impacts
+
+Participants were asked if knowing how to use generative AI tools would positively impact their education and career. A large number, 321 (63.4%), somewhat agreed or strongly agreed that knowing how to use generative AI tools can "help me at work." A total of 267 (52.7%) somewhat agreed or strongly agreed that knowing how to use generative AI tools can "help me get a job," and an almost identical number, 266 (52.6%), somewhat agreed or strongly agreed that knowing how to use these tools can "help me advance in my career." However, a smaller number, 216 (43%), somewhat agreed or strongly agreed that knowing how to use these tools can "improve my grade in a course."
+
+Participants' level of agreement about generative AI tools helping at work varied significantly by education level. While all three groups showed similar levels of strong agreement and being "unsure," 81 (25%) undergraduate participants either somewhat disagreed or strongly disagreed, compared to 10 (17%) of post-bacc students and 8 (8%) of graduate students.
+
+### Trust
+
+Participants were asked to rate their agreement with five statements about the information generative AI tools provide. The majority, 298 (58.9%), strongly disagreed or somewhat disagreed that generative AI tools provide "trustworthy" information; 84 (16.6%) were "unsure," 116 (22.9%) somewhat agreed, and 8 (1.6%) strongly agreed. This pattern of responses was similar across all five items. Similarly, 284 (56.1%) strongly disagreed or somewhat disagreed that generative AI tools provide "reliable" information. Only slightly fewer, 271 (53.6%), strongly disagreed or somewhat disagreed that generative AI tools provide information that is "current/up-to-date" (relatively more participants were "unsure," 107, 21.1%, about this item compared to the others). When asked about accuracy, 260 (51.4%) strongly disagreed or somewhat disagreed that generative AI tools provide "accurate" information. Finally, 240 (47.4%) strongly disagreed or somewhat disagreed that generative AI tools provide information that is "thorough." For all five items, the percentage of respondents who strongly agreed was less than 10%.
+
+### Emotions
+
+When asked to select all the emotions that describe how they feel about generative AI tools, the most frequently chosen emotion was "curious" (321, 63.2%). More than half also chose "concerned" (280, 55.1%). "Optimistic" (192, 37.8%), "excited" (149, 29.3%), and "anxious" (144, 28.3%) comprised the next three most frequently chosen emotions. The total number of emotions chosen ranged from 1-7, with a mean of 2.8 emotions (SD=1.28). About one-third (155, 31.1%) selected 3 emotions.
+
+**Table 7. Emotions describing feelings about generative AI tools (select all that apply, N=508)**
+
+| Emotion | Frequency | Percent |
+|---|---|---|
+| Curious | 321 | 63.2% |
+| Concerned | 280 | 55.1% |
+| Optimistic | 192 | 37.8% |
+| Excited | 149 | 29.3% |
+| Anxious | 144 | 28.3% |
+| Fearful | 105 | 20.7% |
+| Inspired | 97 | 19.1% |
+| Other, please explain | 79 | 15.6% |
+| Confused | 51 | 10.0% |
+| No emotion | 50 | 9.8% |
+
+More than 15% (79) of participants chose "other." When asked to specify the other emotions, participants wrote in 54 unique emotions. "Angry" was the most frequent (19%), followed by "disappointed" (11%), "annoyed," "cautious," and "disgusted" (9% each), and "frustrated" (7%). The remaining 47 unique emotions (e.g., academic dishonesty, anxiety, cheating, distrustful, hopeful, racist, sad, suspicious, threat, wary) were each mentioned once (2%).
+
+To further summarize participants' emotions, all responses were coded for valence: those who only selected one or more positive emotions were coded "positive"; those who only selected one or more negative emotions were coded "negative"; those who only selected "no emotion" were coded "neutral"; and participants who selected both positive and negative emotions were coded "mixed." Note that the majority of the 54 "other" responses were coded as negative. The largest percentage of participants had mixed emotions (48%), followed by 26% positive, 21% negative, and 5% neutral.
+
+### Academic Policies
+
+Participants were asked to identify the degree of allowed uses of generative AI in their Ecampus courses in Fall 2023: whether they had at least one instructor who (1) did not allow any use, (2) allowed some use with restrictions, (3) allowed any use without restrictions, (4) required use for an assignment, or (5) other. Responses differed significantly by student level.
+
+Large percentages of undergraduate participants (236, 73.3%) and post-bacc participants (40, 69%) indicated they had at least one instructor that did not allow any use, compared to only 35.7% (35) of graduate student participants. A similar number of graduate student participants, 38 (38.8%), indicated they had at least one instructor who allowed use with restrictions, compared to 118 (36.6%) undergraduates and 13 (22.4%) post-bacc participants. At all levels, there were very few who had at least one instructor with no restrictions, with the largest number (10, 3.1%) being undergraduate, compared to 3 (5.2%) post-bacc and 8 (8.2%) graduate participants. Finally, 24 (7.4%) undergraduates and 4 (4.1%) of graduates indicated that generative AI tools were required for an assignment.
+
+Eighty-six students selected "other" and provided a written response. Qualitative analysis revealed 51 participants indicating their instructors had not acknowledged generative AI, neither banning nor encouraging its use. Fourteen responses indicated students did not know if their instructors had addressed a generative AI policy, and two indicated they were not allowed to use generative AI. Two indicated they were allowed to use generative AI for specific tasks (e.g., brainstorming, not writing), and seven responses did not pertain to the question.
+
+**Table 9. "Other" written responses for degree of allowed use in Ecampus courses (n=86)**
+
+| Other response | References |
+|---|---|
+| Generative AI Not Addressed | 51 |
+| I Don't Know | 14 |
+| Generative AI Not Allowed | 2 |
+| Generative AI Allowed for Specific Tasks | 2 |
+| Did not pertain | 7 |
+
+When asked how many of their Ecampus instructors helped them understand what their generative AI policy meant in Fall 2023 courses, the largest number selected "zero" (143, 28.3%), indicating no help in understanding their generative AI policy. In contrast, a similar number (134, 26.5%) selected "all of them" helped. In addition, 97 (19.2%) indicated "one" had helped and 74 (14.6%) that "a few" had helped. Finally, 58 (11.5%) indicated they were "unsure." A larger percentage of graduate student participants indicated that "zero" instructors (39, 38.6%) helped them, and a smaller percentage indicated that "all of them" (19, 18.8%) helped with understanding the generative AI policy.
+
+When asked how clear the generative AI policies were in their Fall 2023 Ecampus courses, there were significant differences based on student level. A small percentage of undergraduate participants (47, 14.5%) indicated the policies were "not at all" clear, while larger percentages of post-baccs (14, 23.7%) and graduates (39, 38.6%) indicated the policies were "not at all" clear. In contrast, a larger percentage of undergraduates indicated the policies were "clear" or "very clear" (154, 47.7%) compared to 40.7% (24) of post-baccs and 35.6% (36) of graduate student participants.
+
+### Concerns
+
+In open-ended responses to the question, *What are 1-2 of your concerns regarding Generative AI tools?*, participants provided a staggering number of concerns. Nearly 400 codes were generated through inductive analysis. Participants' top three concerns regarding generative AI were how inaccurate these tools are, potential job loss/changes due to these tools, and the generation of mis/disinformation because of these tools.
+
+**Table 10. Top three concerns of generative AI (coded references)**
+
+| Code | References |
+|---|---|
+| Inaccuracies | 102 |
+| Job Loss/Changes | 49 |
+| Generation of Mis/Disinformation | 41 |
+
+**Inaccuracies.** Some participants who voiced concerns about inaccuracy mentioned these tools' propensity to "hallucinate," potential biases that might be baked into models, or the notion that these tools are "confidently wrong," unintentionally obfuscating inaccurate information through a "false sense of reliability." However, most simply stated that the outputs are not always accurate:
+
+> "There is no guarantee that the information they provide is accurate, and it is also not capable of discerning information biases in any training data."
+
+> "My primary concern is how the information tools like ChatGPT provide are not always accurate. Aside from smaller errors, like citations perhaps, it gets content incorrect as well."
+
+> "I am concerned that it will be assumed by the general public to be true fact every time it generates something, when it is not."
+
+> "Generative AI tools often hallucinate responses, so it's really important to have a good sense about the validity of what is generated and double check the answers you receive."
+
+> "The AI also could present information that it is completely wrong, so I am very wary about using it."
+
+**Job loss or work changes.** The second largest concern was potential job loss or changes to work in various sectors. Many participants stated they were concerned that these tools would make some jobs obsolete, while others identified more nuanced changes that might come to pass. One participant said they were concerned it would be used "as labor disciplining tool to drive down wages for knowledge workers despite being unable to truly replace human creativity & intellectual labor." Another said they were concerned it would "lower the barrier for people to participate in my field, making job acquisition more challenging." Other participants stated:
+
+> "I fear it will cause people to be stuck doing manual labor jobs and service jobs that make them unhappy without any other options. What a terrible sin this is, since human life is so special that to spend an entire lifetime hating the experience is just such a shame."
+
+> "Many thousands of jobs will be permanently lost as companies switch to AI tools to cut creative labor costs."
+
+> "I am extremely concerned about the increasing loss of jobs to AI in general, including the reduction of labor and job responsibilities as a result of generative AI through the removal of what have been seen as menial tasks."
+
+> "And I don't want it to take our jobs or be weaponized against us in some capitalist way to make our lives worse."
+
+> "[I am concerned about] The ability for them to be abused by corporations to replace people's workplace positions where the AI tool is objectively worse and less capable in said position."
+
+**Mis/disinformation.** The third largest concern was the generation of mis/disinformation. Participants identified the ways in which mis/disinformation might impact research, education, politics, corporations, crime rates, national security, and international affairs.
+
+> "[I am concerned about] Successful disinformation/misinformation campaigns waged by state actors (or non-state actors with similar capabilities to states) and just the general proliferation of credible-seeming lies online."
+
+> "I'm concerned about their role in propagating misinformation and distrust of sources."
+
+> "Generative AI has the ability to create, spread, and target false and misleading information that can incite people to behave or respond in extreme ways. It's an exponentially more advanced form of propaganda, if used for that purpose."
+
+### Hopes
+
+Participants provided open-ended responses to the question, *What are 1-2 of your hopes regarding Generative AI tools?* The analysis reveals a complicated picture. Although students expressed many hopes for the technology, they also expressed their fears of negative consequences.
+
+**Positive sentiment.** Participants expressed hopes such as, "AI can lead to new discoveries and methods that overall change things for the best," and, "We can use them to enhance our lives especially through recreational uses." Some hoped generative AI would advance science. Many wrote about efficiency, sometimes referring to automation of tasks, while others were broader:
+
+> "My biggest hope regarding generative AI tools is that society will learn how to appropriately and efficiently integrate generative AI tools into professional, academic, and personal areas of our lives."
+
+> "generative AI tools will massively accelerate the growth of every field and greatly improve society in the upcoming future."
+
+> "I hope that Generative AI will make it easier for individuals to accomplish more things and achieve their dreams."
+
+Most of the comments communicating positive sentiment were not "rich" data (deep, nuanced, complex, detailed, and contextual). The positively valenced comments were general, shallow, vague, and broad, reflecting the common language used by technology companies to market generative AI tools.
+
+**Negative sentiment.** The vague positive comments contrast starkly with the rich negative comments, which were detailed, nuanced, contextual, value-laden, and scathing. Participants expressed negative sentiments centering on the technology companies and tools broadly:
+
+> "[I hope] that all generative AI companies will wipe their current models and rebuild them based on consensually obtained content."
+
+> "I hope AI tools die."
+
+> "[I hope] That they are banned and their companies sued into the ground for copyright infringement."
+
+> "[I hope] People will realize that the output of AI tools is untrustworthy and stop paying the companies that produce them."
+
+Many wrote of tangible consequences they wished for or foresaw: wiping current models, rebuilding models consensually, banning these technologies, technology companies being sued for copyright infringement, financial ruination, users ceasing to pay companies. Participants also wrote about regulating these technologies:
+
+> "I hope that legislation will force AI tool developers to train their algorithms only on content they have permission to use."
+
+> "I hope that more regulations and clear legislation is put in place with regards to the way that AI models are trained and used in both professional/commercial and personal contexts."
+
+One participant connected this to OSU specifically:
+
+> "My hope is Generative AI continues to remain strictly regulated and strictly off-limits for the majority of OSU courses. Any current allowed use of Generative AI puts those with little knowledge, understanding or access to the technology at an unfair disadvantage."
+
+**Hopes for learning.** Many participants connected this technology to their coursework at OSU. Some hoped instructors would replace busywork with "meaningful assignments that get students to think beyond a question that can be easily answered given an AI tool."
+
+> "I really think AI can cut out so much time wasting college bureaucracy for many students... can save professors time so they can actually enjoy their jobs without reading 6 pages of nonsense someone threw together an hour before the due date."
+
+> "Using generative AI tools will save time during studying and understanding concepts in a way I cannot access from being an online student and not having direct contact with the professor."
+
+However, other participants expressed negative sentiments relating to generative AI and their educational experiences:
+
+> "Generative AI itself is not some bogeyman, but I am deeply concerned with its use in academics due to how it scrapes data from unwilling participants and mashes them together in ways that are often inaccurate."
+
+> "[I hope] That it will be banned for all educational uses."
+
+> "I also hope that universities and other higher education institutions do not allow for their use or implement them into courses."
+
+> "Throw the whole thing out! If people can't write an essay using their critical thinking skills and a little creativity then the education system has ultimately failed."
+
+Similarly, participants described a disconnect between using these technologies and learning:
+
+> "I hope that students will be academically supported in the development of their OWN knowledge and skills instead of defaulting to using generative AI."
+
+> "[I hope] We develop policies to ensure students actually do their work and not just buy a degree without actually putting the work in; we aren't the University of Phoenix."
+
+### Other Perspectives and Issues
+
+**Policies.** Nearly half of respondents answered the final open-ended question, *"Is there anything else you would like OSU Ecampus instructors to know regarding Generative AI tools?"* Many responses related to AI policy at OSU. Some students advocated for allowing and integrating AI in courses:
+
+> "Calling all use of generative AI plagiarism and banning its use is shortsighted and does not help students."
+
+> "They can be a tool to help improve understandings and should not be outright banned."
+
+> "It is better to adapt to and incorporate this technology than to ban it outright."
+
+Others called for increased education around these tools without necessarily advocating for integration:
+
+> "Generative AI should be taught about for media literacy at every college campus, including OSU. Using it for other aspects of college life, like class assignments and other things should not be considered."
+
+Despite calls to allow and even integrate generative AI into courses, even more participants communicated that they did not want to integrate or use these tools in courses, some stating that these tools should be banned:
+
+> "I personally would not want Generative AI tools in OSU Ecampus courses. I think it could lead to academic dishonesty, cheating, and ultimately hinder students who learn to rely on it and therefore, do not develop their own skills and knowledge to function in the real world."
+
+> "I really don't think we need to incorporate AI into Ecampus when we haven't even reckoned with the harm it's been done or is capable of doing to real people."
+
+> "BAN IT! Even if there is no way to guarantee (you can't afford to proctor every single thing), this must be banned."
+
+Regardless of the policy, many participants asked for clarity from the university and their instructors about policies for generative AI in their courses:
+
+> "Its super inconsistent from class to class."
+
+> "Please be very clear if the expectation is that students can/should be using AI to meet course requirements... If AI is an expected tool to be used, please make sure to walk the class through what and how to use it so everyone has equal starting point."
+
+**Values.** Many participants mentioned their own or others' values and ethics in relation to generative AI and their education, noting that using generative AI would not align with those values:
+
+> "Under no circumstances would I recommend REQUIRING the use of AI... to require it breaches the morals and principles of some people. Were I asked or required to use AI in a class I would rather tank my grade on an assignment than do so."
+
+> "I don't see an ethical way to [use AI tools] at the moment with the AI that we have access to."
+
+One participant argued that generative AI conflicts with the institution's own stated ethics:
+
+> "Please think about the ethics of adopting these tools in your curriculum. Present AI tools are ethically bankrupt. And their output isn't even correct."
+
+A recurring value was learning and education itself:
+
+> "I feel like Generative AI takes away from learning. The learning process requires work."
+
+> "We should think very carefully about what we want the mission of Universities to be and utilize AI toward that objective, if at all... There's a strong argument to be made that, apart from research, AI has little place on college campuses."
+
+Some students went further, indicating that AI integration would prompt them to reconsider the cost of their education or even transfer institutions:
+
+> "I dropped a class a few terms ago because one of the homework assignments told us to look up how to do what it was asking us to do through ChatGPT. If I'm paying for these classes, I don't want to be told to ask an AI chat bot how to do things - I could be doing that for free."
+
+> "If OSU integrates Generative AI into coursework then I will transfer to another school."
+
+> "[I find] Claude to be a very helpful tutor. I find that Ecampus professors tend to be pretty hands-off when it comes to online classes, so having a tool like Claude really helps me to explore course concepts and understand ideas better. I should probably be giving Claude my tuition instead of OSU..."
+
+> "If you put AI tools into my Ecampus courses, I WILL NOT PAY FOR THEM... If I were not so close to the end of my degree I would leave the school if it turns to AI usage."
+
+These responses are meaningful not only because they provide a glimpse into students' values and how those values impact their perceptions of and interaction with generative AI, but also because participants submitted these responses at the end of the survey, indicating they felt strongly about this topic.
+
+## Conclusion
+
+This study explored online students' perceptions, understanding, and use of generative AI tools. Participants demonstrated a deep knowledge of generative AI tools; however, the majority had not used these tools in their Ecampus courses but reported greater usage in professional and personal contexts. When they did use these tools, most indicated they were using them for brainstorming, generating ideas, code, or content. There was a spectrum of responses about using generative AI tools in online courses, integrating them in their coursework, and receiving guidance from their instructors. Although most participants were skeptical, they agreed that knowing how to use generative AI tools would help in job seeking, at work, and in their careers. Participants' responses demonstrated a tension between their attitudes towards generative AI tools and their perceptions of integration in jobs and careers.
+
+Participants also expressed differing ideas about the generative AI policies they wanted in their online courses; some advocated for allowing and integrating the tools while others advocated for banning these tools. Regardless of their views on course policies, they wanted clarity on how these policies impacted their experiences in their courses. Most importantly, participants selected and expressed a multitude of strong emotions about generative AI tools. Although they often expressed positive and negative emotions simultaneously, they also wrote in 54 overwhelmingly negative emotion statements. In their open-ended responses, participants took the time to detail a staggering number of concerns about generative AI. Fewer shared hopes for generative AI; however, participants reiterated their concerns and feelings of pessimism about their futures with generative AI.
+
+## Methodology
+
+Oregon State University students who were enrolled in at least one Ecampus online course in Fall 2023 were recruited via email to participate in the study. The recruitment message was sent to 16,032 students. The response rate was 4%. Participants completed a survey that was administered online via Qualtrics in late February through early March of 2024. The 40-item survey included both closed-ended and open-ended items asking about degree of use, guidance, career and education impacts, trust, emotions, academic policies, concerns, and hopes.
+
+**Survey randomization.** Multiple survey blocks were randomized to ensure students were not primed for certain responses. Randomized blocks included those about what guidance students wanted about generative AI, educational and career goals, attitudes, emotions, and academic policies. When possible, response options were also randomized.
+
+**Data analysis.** Descriptive analyses were conducted using SPSS. After data cleaning, 669 responses were used for data analysis. Subgroup analyses were conducted for primary campus and student level. Researchers also summarized students' open-ended "Other, please explain" responses throughout the survey items, inductively coding responses in line with the survey question, collapsing codes when possible and reporting frequencies.
+
+**Qualitative analysis.** Qualitative analysis of open-ended questions followed Tracy's (2020) phronetic iterative approach, starting with inductive coding before moving into axial coding. Axial coding drew on Owen's (1984) conceptualizations of repetition, recurrence, and forcefulness. Some themes were developed through repetition and recurrence, as with the top three concerns students voiced about generative AI. Other themes were interpreted based on the combination of recurrence and forcefulness — data that may not occur many times but is meaningful, powerful, and unforgettable. To ensure rigor and trustworthiness, the researcher primarily responsible for qualitative analysis regularly consulted with two other subject matter and research experts for peer debriefings (Lincoln & Guba, 1985), and memoed to make connections, vet interpretations, and note trends before diagramming data structures (Corbin & Strauss, 2015).
+
+## Description of Respondents
+
+Of the 669 respondents, the number of Ecampus courses taken in Fall 2023 ranged from 2 to 6, with 216 (32.3%) taking 2 courses and 199 (29.7%) taking 3 courses.
+
+By primary campus, 409 (61.1%) took all classes entirely online (recoded as "Ecampus," 411/61.4% after reclassifying "other" responses), 196 (29.3%) were primarily in-person at Corvallis (recoded to 228/34.1%), and 21 (3.1%) were primarily in-person at Cascades.
+
+By student level (N=487): 324 (66.5%) were undergraduate students, 101 (20.7%) were graduate students, 59 (12.1%) were post-baccalaureate students, and 3 (0.6%) selected "other."
+
+Of the 479 participants who provided their age, the age range was 18-68 years; the overall mean age was 30.4 years (SD=9.9), median 28 years. Mean age was higher for Ecampus-only students (34, SD=9.7) than Corvallis-based students (24, SD=6.4), and higher for post-baccalaureate (36.8, SD=9.6) and graduate (34.3, SD=8.9) students than undergraduates (28.1, SD=9.3).
+
+By gender (N=487): 220 (45.2%) female, 197 (40.4%) male, 27 (5.5%) prefer not to identify, 23 (4.7%) genderqueer/gender non-conforming, 11 (2.3%) trans male/trans man, 7 (1.4%) different identity, and 2 (0.4%) trans female/trans woman.
+
+By race or ethnicity (N=487): 328 (67.4%) White, 42 (8.6%) prefer not to identify, 38 (7.8%) two or more races, 27 (5.5%) Asian, 27 (5.5%) Hispanic/Latino, 9 (1.8%) American Indian or Alaskan Native, 7 (1.4%) other, 5 (1.0%) Black or African American, and 4 (0.8%) Native Hawaiian or Other Pacific Islander.
+
+By college (N=484), the largest groups were College of Engineering (132, 27.3%), College of Liberal Arts (92, 19%), College of Agricultural Sciences (60, 12.4%), and College of Business (48, 9.9%).
+
+## References
+
+- Corbin, J. M., & Strauss, A. L. (2015). *Basics of qualitative research: Techniques and procedures for developing grounded theory* (4th ed.). SAGE.
+- Lincoln, Y. S., & Guba, E. G. (1985). *Naturalistic inquiry*. Newbury Park, CA: Sage.
+- Owen, W. F. (1984). Interpretive themes in relational communication. *Quarterly Journal of Speech, 70*(3), 274–287.
+- Tracy, S. J. (2020). *Qualitative research methods: Collecting evidence, crafting analysis, communicating impact* (2nd ed.). Wiley-Blackwell.

@@ -1,0 +1,55 @@
+# AI in Higher Education
+
+**Source:** Columbia University, Center for Teaching and Learning (CTL)
+
+Artificial Intelligence (AI) has evolved from an emerging technology to an everyday reality in higher education. Whether you're enthusiastic about AI's potential, skeptical of its value, or simply trying to understand what your students are already using, engaging thoughtfully with these tools has become essential to effective teaching.
+
+Your exploration of AI may differ from that of your colleagues depending on your discipline, teaching style, and comfort with AI technology. Some faculty will move through all four stages on a recurring cycle while others may find that exploring AI's implications is sufficient for now. What matters is making informed decisions about when and how AI serves your students' learning.
+
+## Understanding AI: What It Is and How It Works
+
+Artificial intelligence, in the context of higher education, refers primarily to systems that can process language, generate text, analyze images, and perform complex tasks that typically require human intelligence. The AI tools most relevant to teaching (such as OpenAI's ChatGPT, Anthropic's Claude, and Google Gemini) are generative AI systems powered by Large Language Models (LLMs) (IBM, n.d.). These are "narrow" AI tools, meaning they excel at specific tasks like writing, translation, and conversation, but they don't possess general intelligence or consciousness (Awan, 2023). Think of them as highly sophisticated pattern-matching systems trained on vast amounts of text, not as thinking entities.
+
+So how do these systems actually work? LLMs learn by analyzing billions of examples of human writing, identifying patterns in how words and ideas connect (Anthropic, n.d.). Crucially, they're trained, not programmed. These systems don't follow explicit rules but instead predict what words or phrases are most likely to come next based on probability. This is why AI can produce impressively coherent text, but also why it "hallucinates" - confidently generating plausible-sounding information that's completely false (IBM, n.d.).
+
+Understanding this distinction between AI as a trained but not programmed tool is important in higher education. AI is a powerful tool for exploration, drafting, and feedback, but it requires human judgment to verify accuracy and ensure meaningful learning. Throughout this site, you'll find examples in our Create and Engage sections showing how Columbia faculty are leveraging these capabilities while accounting for their limitations.
+
+## AI's Impact on Higher Education
+
+AI has rapidly become part of the academic environment, whether institutions have formally adopted it or not. Recent studies suggest that a significant majority of college students are already using AI tools for coursework, from brainstorming ideas and drafting essays to debugging code and preparing for exams (Inside Higher Ed, 2025; Kelly, 2024). Students access these tools with varying levels of skill and ethical awareness, which means the question isn't whether AI is present in our classrooms, but how we respond to its presence thoughtfully and pedagogically while preparing our students for the reality of an AI-forward job market.
+
+Academic institutions are responding to AI in diverse ways, ranging from outright bans to enthusiastic adoption, with most landing somewhere in between (An et al., 2025). Columbia has developed its own AI policy to provide guidance while allowing flexibility for different disciplinary contexts and teaching approaches. The goal of the CTL is to help you make informed decisions about what works for your courses, your students, and your pedagogical values.
+
+AI presents genuine opportunities to enhance teaching and learning: personalized feedback at scale, improved accessibility for students with disabilities, creative new pedagogical approaches, and reduced administrative burden. In our Create, Engage, and Measure sections, you'll find examples of how Columbia faculty are already leveraging these possibilities in meaningful ways.
+
+At the same time, AI raises legitimate concerns that deserve serious attention: questions about academic integrity, equity of access, the risk of student over-reliance, and fears over the erosion of critical thinking skills. Columbia's AI Policy & Guidelines address these challenges directly, offering frameworks for navigating them responsibly.
+
+## Pedagogical Value of AI
+
+The question isn't whether AI can support learning, but how AI can be used intentionally, thoughtfully, and deliberately to deepen students' learning. Research demonstrates that AI tools can be particularly effective for formative feedback and simulation-based learning - applications that align with established pedagogical frameworks like Bloom's taxonomy and active learning principles (Oregon State University Ecampus, 2024; Venter et al., 2024).
+
+At Columbia, folks have found a number of ways in which AI adds pedagogical value to the classroom: AI can serve as a tireless conversation partner for students practicing foreign language skills or simulate patient interactions for nursing students before they enter clinical settings. These applications work across disciplines: an English student might use AI to explore complex literary themes with a Shakespearean character, while an Engineering student could test code solutions against AI-generated edge cases. What makes these examples effective isn't the technology itself—it's how instructors design the learning experience to ensure AI promotes critical thinking, supports skill development, and maintains intellectual rigor.
+
+There are several things to keep in mind when using AI in the classroom:
+
+- **Intentional design matters.** The same AI can either undermine or enhance learning depending on how it's incorporated into your syllabus.
+- **Transparency with students is essential.** Students will appreciate clear syllabus language about when, how, and why AI use is appropriate (or prohibited) in your classroom.
+- **Assessment can improve your ability to measure authentic learning.** AI allows us to assess students' deeper understanding of complex concepts.
+- **Iterative experimentation with AI is crucial.** The Explore, Create, Engage, and Measure cycle we outlined above will support you throughout this journey. The instructors who find AI most valuable are those who treat it as an ongoing pedagogical experiment rather than a one-time implementation.
+
+## Ethical Considerations and Responsible Use
+
+AI raises complex ethical questions that deserve careful consideration. Academic integrity remains the most immediate concern for many instructors: Where is the line between appropriate AI assistance and academic dishonesty? How do we define original work in an AI-augmented environment? It's important to recognize that AI detection tools have significant limitations and should not be the primary mechanism for enforcing integrity (Elkhatat et al., 2023). Instead, clear communication about expectations—guided by Columbia's Generative AI policy—helps students make informed decisions about appropriate use.
+
+Beyond the classroom, AI may pose other concerns. Not all students have equal access to premium AI tools, creating potential disparities in educational opportunity (Vesna et al., 2025). Additionally, AI systems trained on biased datasets can perpetuate or amplify existing inequalities, affecting everything from whose perspectives are represented to whose language patterns are deemed "correct" (Greene-Santos, 2024). Training and running large language models also requires substantial energy and water resources, raising questions about the sustainability of widespread AI adoption in education (Ren & Wierman, 2024).
+
+Navigating these challenges requires a commitment to transparency of use, critical evaluation of AI outputs, and a centering of human judgment and expertise. These principles provide a framework for making thoughtful decisions as the technology and our understanding continue to evolve.
+
+## Staying Current with AI in Higher Education
+
+The landscape of AI in education is evolving rapidly, with new tools, research findings, and pedagogical approaches emerging regularly. Staying informed through trusted sources can help you understand what matters for your teaching. The resources below offer practical insights, evidence-based guidance, and ongoing conversations about AI's role in higher education. Whether you prefer in-depth articles, quick updates, or community discussions, these curated sources can help you stay grounded and informed without feeling overwhelmed.
+
+- **Chronicle of Higher Education: Technology** – News, analysis, and commentary on AI's impact across higher education, from policy developments to classroom innovations.
+- **EDUCAUSE AI Resources** – Research, case studies, and practical resources focused on AI implementation in colleges and universities.
+- **AI for Education** – Curated tools, tutorials, and teaching strategies for integrating AI thoughtfully into educational practice.
+- **Teaching in Higher Ed: AI Resources** – Podcast episodes, articles, and practical guidance on AI pedagogy.
