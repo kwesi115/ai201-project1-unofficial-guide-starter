@@ -9,10 +9,9 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+This system covers **sentiment toward AI in higher education** — how students, instructors, and institutional staff actually feel about and use generative AI tools like ChatGPT, drawn from recent surveys, policy notes, and peer-reviewed studies (2023–2026).
+
+This knowledge is valuable because AI is actively reshaping teaching and learning: students may lean on it to complete assignments (raising academic-integrity questions), while instructors are simultaneously being pushed to use it for lesson planning, grading, and feedback. Whether that shift is net-positive is genuinely contested — nearly universal student adoption (95%, per HEPI 2026) sits next to instructor distrust and hesitancy, with faculty adoption lagging well behind students' (per the ScienceDirect and OUP instructor-focused surveys), and these numbers rarely show up together in any single official source. A university's own AI policy page tells you what's *allowed*, not what students or faculty actually *think* or *do*. Consolidated survey and study data — the kind scattered across HEPI, EDUCAUSE, Oxford University Press, ScienceDirect, Springer Nature, PubMed, and individual university research pages — is hard for a student or instructor to assemble themselves, because it requires cross-referencing multiple standalone reports that were never designed to be read together. This system pulls those perspectives (student, faculty, and institutional) into one place and answers questions grounded in what the underlying research actually found, rather than in general AI hype or a single institution's messaging.
 
 ---
 
@@ -24,16 +23,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Columbia University, Center for Teaching and Learning — "AI in Higher Education" | Institutional practitioner guide | [ai.ctl.columbia.edu/explore/understanding-ai](https://ai.ctl.columbia.edu/explore/understanding-ai/) (local copy: `documents/columbia.txt`) |
+| 2 | EDUCAUSE QuickPoll Results — "Adopting and Adapting to Generative AI in Higher Ed Tech" | Staff/institutional poll report | [er.educause.edu/articles/2023/4/...](https://er.educause.edu/articles/2023/4/educause-quickpoll-results-adopting-and-adapting-to-generative-ai-in-higher-ed-tech) (local copy: `documents/educause.txt`) |
+| 3 | HEPI Report 199 — "Student Generative AI Survey 2026" (with Kortext) | Student survey (n=1,054 UK undergraduates) | [hepi.ac.uk/reports/student-generative-ai-survey-2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/) (local copy: `documents/hepi.txt`) |
+| 4 | HEPI Policy Note 51 — "Provide or Punish? Students' Views on Generative AI in Higher Education" (Josh Freeman, with Kortext) | Student survey / policy note (n=1,250 students) | [hepi.ac.uk/reports/provide-or-punish-...](https://www.hepi.ac.uk/reports/provide-or-punish-students-views-on-generative-ai-in-higher-education/) (local copy: `documents/hepi-policy-note-51.txt`) |
+| 5 | Klimova & Pikhart — "Exploring the Effects of AI on Student and Academic Well-Being in Higher Education: A Mini-Review" | Peer-reviewed literature review (NLM/PubMed Central) | [pmc.ncbi.nlm.nih.gov/articles/PMC11830699](https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/) (local copy: `documents/nlm.txt`) |
+| 6 | Dello Stritto, Underhill & Aguiar — "Online Students' Perceptions of Generative AI" (Oregon State University Ecampus Research Unit, July 2024) | Student survey (n=669) | [ecampus.oregonstate.edu/research/.../Online-Students-Perceptions-of-AI-Report.pdf](https://ecampus.oregonstate.edu/research/wp-content/uploads/Online-Students-Perceptions-of-AI-Report.pdf) (local copy: `documents/oregon-ecampus-genai-survey.txt`) |
+| 7 | Oxford University Press — "Higher Education and AI: Survey Findings" (June 2024) | Paired student/lecturer survey (674 students, 841 lecturers) | [pages.oup.com/he/us/ai-survey](https://pages.oup.com/he/us/ai-survey) (local copy: `documents/oup-higher-education-ai-survey.txt`) |
+| 8 | "Understanding the Practices, Perceptions, and (Dis)Trust of Generative AI Among Instructors" | Peer-reviewed journal article, ScienceDirect (n=178 instructors) | [sciencedirect.com/science/article/pii/S2666920X25000232](https://www.sciencedirect.com/science/article/pii/S2666920X25000232) (local copy: `documents/sciencedirect.txt`) |
+| 9 | Kim et al. — "Examining Faculty and Student Perceptions of Generative AI in University Courses" | Peer-reviewed journal article, Springer Nature / *Innovative Higher Education* (n=982 students, 76 faculty) | [link.springer.com/article/10.1007/s10755-024-09774-w](https://link.springer.com/article/10.1007/s10755-024-09774-w) (local copy: `documents/springnature.txt`) |
+| 10 | Kale, Ling & Imas — "Underreporting of AI Use: The Role of Social Desirability Bias" (University of Chicago, CHI 2026) | Research news summary of a peer-reviewed study (n=338 students) | [cs.uchicago.edu/news/are-students-hiding-their-ai-use-...](https://cs.uchicago.edu/news/are-students-hiding-their-ai-use-the-social-stigma-behind-ai-use-in-the-classroom/) (local copy: `documents/uchicago.txt`) |
 
 ---
 
@@ -48,11 +47,23 @@
 
 **Chunk size:**
 
+500 tokens, measured with `tiktoken`'s `cl100k_base` encoding (`app/chunk.py`). `chunk_text()` encodes the whole cleaned document to token ids once, then slides a fixed-size window across that token array and decodes each window back to text — so every chunk (except possibly the last one per document) is exactly 500 tokens, not an approximation based on word or character count.
+
 **Overlap:**
+
+100 tokens. The sliding window advances by `chunk_size - overlap` = 400 tokens each step, so consecutive chunks from the same document share their last/first 100 tokens.
+
+**Preprocessing before chunking:**
+
+`ingest.py`'s `clean_text()` runs on every document before chunking: it HTML-unescapes entities, normalizes line endings, collapses runs of 3+ blank lines to one, and collapses runs of horizontal whitespace — all generic cleanup for text pulled from PDFs/webpages, not tailored to any one source, so it's safe to rerun if new documents are added.
 
 **Why these choices fit your documents:**
 
+The 10 source documents are research articles, survey reports, and policy notes — dense, multi-paragraph prose where a single finding (e.g., a specific statistic and the methodology or caveat that qualifies it) often spans several sentences or a full paragraph. 500 tokens is large enough to keep a survey finding together with its immediate context (who was surveyed, what percentage, what it means) without pulling in unrelated sections of the same document. The 100-token overlap exists specifically to protect against key claims landing right on a chunk boundary — splitting a statistic from the sentence that explains it would silently degrade retrieval and generation quality, and this was worth the ~20% storage/embedding overhead it adds. Live retrieval testing (see Retrieval Test Results below) came back with all top-ranked distances well under the 0.6–0.7 "weak match" threshold, so no chunk-size or overlap tuning was needed after the fact.
+
 **Final chunk count:**
+
+152 chunks across 10 documents (verified by running `chunk_documents()` over all documents in `documents/` — output: `docs: 10`, `chunks: 152`). The ChromaDB collection built by `embed.py` also reports `collection.count() == 152`, confirming every chunk was embedded and stored.
 
 ---
 
@@ -371,16 +382,20 @@ Captured directly from `app.handle_query()` (the same function wired to the Grad
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
+All 5 questions were run live through `generate.ask()` against the real 152-chunk collection (not hand-simulated) on the date of this report.
+
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | According to the HEPI Student Generative AI Survey 2026, do students believe generative AI improves their learning experience? | Should summarize whether the survey found students generally view AI as improving their learning experience, citing HEPI. | "AI improves the student experience for many – but not all," citing that 49% of students report AI improves their experience (`hepi.txt`). | Relevant | Accurate |
+| 2 | What concerns do instructors have about trusting generative AI, according to the study on instructor perceptions and distrust of AI? | Should identify concerns such as inaccurate/unreliable outputs, lack of trust, and uncertainty about quality/appropriate use. | Explained that instructor distrust reflects "suspicion and the expectation of harm," distinct from an absence of trust, citing `sciencedirect.txt`. | Relevant | Partially accurate |
+| 3 | How do students and faculty differ in their perceptions of generative AI in university courses? | Should compare student/faculty attitudes, including differences in use, ethical concerns, and perceived effect on learning. | Students report higher ease-of-use, enjoyment, and personal innovativeness; faculty report more habitual use; both groups expect more negative than positive effects on most competencies except academic performance, where students are more optimistic (`springnature.txt`). | Relevant | Accurate |
+| 4 | What do students think about using generative AI for academic work, including concerns about cheating and academic integrity? | Should explain mixed views: AI supports learning, but students worry about cheating, unfair use, and unclear policies. | Students expect institutions can detect AI misuse and worry about false-positive accusations; over two-thirds say AI can promote dishonesty, yet about half still see its use as ethical; students want more institutional guidance (`hepi-policy-note-51.txt`, `springnature.txt`). | Relevant | Accurate |
+| 5 | According to the Oregon State University survey, how do online students and faculty differ in their perceptions of generative AI? | Should compare online student and faculty perspectives, including student skepticism and faculty concerns/uncertainty. | "I don't have enough information on that." | Partially relevant | Inaccurate (see Failure Case Analysis) |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
+
+For Q2, "partially accurate" reflects that the answer is correctly grounded in the right study (`sciencedirect.txt`) but leans on the paper's abstract theoretical framing of trust/distrust rather than the concrete, practical concerns (e.g., output reliability, appropriate-use uncertainty) the expected answer named — those specific concerns exist elsewhere in the same document but weren't among the top-5 chunks retrieved for this phrasing of the question.
 
 ---
 
@@ -399,11 +414,19 @@ Captured directly from `app.handle_query()` (the same function wired to the Grad
 
 **Question that failed:**
 
+"According to the Oregon State University survey, how do online students and faculty differ in their perceptions of generative AI?" (evaluation question 5)
+
 **What the system returned:**
+
+"I don't have enough information on that." — the refusal string, with an empty effective context even though retrieval itself succeeded: the top hit was `oregon-ecampus-genai-survey.txt` chunk 0 at distance 0.2072, well under the 0.7 relevance threshold, and 2 of the top 5 hits came from that exact document.
 
 **Root cause (tied to a specific pipeline stage):**
 
-**What you would change to fix it:**
+This is not a retrieval bug — `retrieve()` correctly found the right document on the first try. The failure traces back to the **document collection itself, and to a false assumption baked into the evaluation question in `planning.md`**. I checked the source text directly (`grep -i "faculty\|instructor" documents/oregon-ecampus-genai-survey.txt`): the OSU Ecampus report surveyed *only online students* — every mention of "instructor" in the document describes students' perceptions of their instructors' AI policies (e.g., "About three-quarters of undergraduate participants indicated they had at least one instructor who did not allow any use of generative AI"), never instructors' own attitudes toward AI. The evaluation question assumes the survey directly compares student and faculty perspectives, but no chunk in the corpus actually contains faculty's own perceptions from that survey — because that data doesn't exist in the source document. Faced with retrieved-but-irrelevant-to-the-question chunks, `generate_answer()`'s system prompt (rule 2) correctly told the model to refuse rather than fabricate a faculty perspective that isn't in the excerpts — the grounding mechanism worked exactly as designed, it's just that "working as designed" here means correctly refusing an unanswerable question.
+
+**What I would change to fix it:**
+
+Two options, not mutually exclusive: (1) Rewrite the evaluation question to match what the OSU document actually contains — e.g., "How do online students' AI use compare across undergraduate, post-baccalaureate, and graduate levels, per the OSU Ecampus survey?" — which the collection can answer. (2) If a true student-vs-faculty OSU-specific comparison is the goal, that would require adding a genuine faculty-side OSU survey document to the corpus; note the collection does already contain a real faculty-vs-student comparison (`springnature.txt`, the Kim et al. study), so a corrected evaluation question could also just target that document by name instead of misattributing the comparison to OSU.
 
 ---
 
@@ -414,7 +437,11 @@ Captured directly from `app.handle_query()` (the same function wired to the Grad
 
 **One way the spec helped you during implementation:**
 
+Writing the Chunking Strategy and Retrieval Approach sections in `planning.md` *before* touching any code gave me concrete, testable numbers to hand to Claude Code instead of vague instructions. Because I had already committed to "500-token chunks, 100-token overlap, top-5 retrieval" on paper, I could ask for `chunk_text(text, chunk_size=500, overlap=100)` as a precise function signature and immediately verify the output against that spec (checking that consecutive chunks actually shared ~100 tokens, that chunk counts matched expectations) rather than eyeballing whether the output "looked reasonable." The same was true for the `RELEVANCE_THRESHOLD = 0.7` cutoff in `generate.py` — because planning.md's evaluation plan forced me to think about what a "good" versus "bad" retrieval match looked like before generation existed, I had a concrete number to filter on instead of tuning it after the fact once bad answers started showing up.
+
 **One way your implementation diverged from the spec, and why:**
+
+The assignment's recommended Groq model, `meta-llama/llama-4-scout-17b-16e-instruct`, had been retired from Groq's model catalog by the time I built the generation stage (confirmed via `client.models.list()` — see the comment in `app/generate.py`). I substituted `openai/gpt-oss-120b`, a free-tier Groq model, because in testing it followed the "refuse if the excerpts don't have enough information" instruction (system prompt rule 2) far more reliably than the alternatives I tried, which matters more for a grounded system than raw fluency. Separately, my final 10 documents don't exactly match the 10 sources originally listed in `planning.md`'s Documents table (e.g., "Inside Higher Ed" and "Multi-Informant Study" from that early list aren't among the final files in `documents/`) — the corpus evolved during collection to the set documented in Document Sources above, still covering the same domain and source variety the plan called for.
 
 ---
 
@@ -431,12 +458,12 @@ Captured directly from `app.handle_query()` (the same function wired to the Grad
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I gave Claude Code the Architecture and Retrieval Approach sections of `planning.md`, plus the assignment's recommendation to use `meta-llama/llama-4-scout-17b-16e-instruct` via Groq, and asked it to implement `generate.py`'s LLM call.
+- *What it produced:* Claude Code discovered (by calling `client.models.list()`) that the recommended model had been retired from Groq's catalog and would fail at runtime, and proposed switching to `openai/gpt-oss-120b` as a free-tier replacement.
+- *What I changed or overrode:* I accepted the model swap, but I didn't just take "it works" as sufficient — I directed additional testing specifically on whether the replacement model reliably obeyed the "say you don't know" refusal rule (system prompt rule 2), since a fluent-but-non-compliant model would silently break grounding. I also had it document the substitution and the reason inline as a code comment in `generate.py`, so the model choice wouldn't look arbitrary to someone reading the code later.
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* After the first working version of `generate.py` was in place, I ran a batch of test questions (including borderline/out-of-scope ones) and gave Claude Code one specific failure I noticed: the model was citing the correct source document, but also inventing a fake citation-style reference that looked like `【sciencedirect.txt†L1-L5】` — a line-range format that was never given to it anywhere in the prompt. I asked Claude Code to fix the system prompt so this couldn't happen again.
+- *What it produced:* Claude Code's first fix just added a general instruction like "cite sources accurately," which didn't reliably stop the fabricated line-range format in follow-up testing.
+- *What I changed or overrode:* I rewrote system-prompt rule 3 myself to be much more restrictive and explicit: "name the source document it came from inline in plain prose... Do not invent line numbers, footnote markers, or bracketed reference codes — a filename mentioned in a sentence is the only citation format allowed." I also decided the citation list shouldn't depend on the model's compliance at all as a second line of defense — I directed that `ask()` build the returned `"sources"` list programmatically from retrieval metadata (`[h["source"] for h in relevant]`) instead of trying to parse whatever citation format the LLM produced, so the UI's source attribution stays correct even if a future model change reintroduces a citation-formatting quirk.
