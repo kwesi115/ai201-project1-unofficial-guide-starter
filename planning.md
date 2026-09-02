@@ -22,16 +22,16 @@ The domain I chose was AI sentiment in higher education. I believe this informat
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | UChicago                   
-| 2 | HEPI 2026
-| 3 | Inside Higher Ed
-| 4 | Instructor (Dis)Trust Study
-| 5 | Faculty vs. Student Perceptions
-| 6 | Oregon State
-| 7 | Provide or Punish?
-| 8 | EDUCAUSE QuickPoll
-| 9 | Oxford University Press
-| 10 | Multi-Informant Study
+| 1 | UChicago | Kale, Ling & Imas, "Underreporting of AI Use: The Role of Social Desirability Bias" (CHI 2026). Survey of 338 students finds a large gap between self-reported personal AI use (~60%) and perceived peer use (~90%), attributed to social desirability bias. | https://cs.uchicago.edu/news/are-students-hiding-their-ai-use-the-social-stigma-behind-ai-use-in-the-classroom/ |
+| 2 | HEPI 2026 | HEPI Report 199, "Student Generative AI Survey 2026" (with Kortext). Survey of 1,054 UK undergraduates (Savanta, Dec 2025) finds AI use is now "near universal" (95%) among students but adoption support from institutions is lagging. | https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/ |
+| 3 | Inside Higher Ed | "Survey: College Students' Views on AI" (Inside Higher Ed Student Voice series, Aug 2025). Student survey finding mixed views on faculty AI use, widespread use of AI to support their own learning, and concern that reliance on AI could affect critical-thinking skills. | https://www.insidehighered.com/news/students/academics/2025/08/29/survey-college-students-views-ai |
+| 4 | Instructor (Dis)Trust Study | "Understanding the Practices, Perceptions, and (Dis)Trust of Generative AI Among Instructors: A Mixed-Methods Study in U.S. Higher Education" (ScienceDirect). Survey of 178 instructors at one U.S. university (March 2024) finds trust and distrust of GenAI are related but distinct constructs. | https://www.sciencedirect.com/science/article/pii/S2666920X25000232 |
+| 5 | Faculty vs. Student Perceptions | Kim et al., "Examining Faculty and Student Perceptions of Generative AI in University Courses" (*Innovative Higher Education*, Springer Nature). Survey of 982 students and 76 faculty (Fall 2023) comparing attitudes across ease of use, ethical concerns, and perceived learning impact. | https://link.springer.com/article/10.1007/s10755-024-09774-w |
+| 6 | Oregon State | Dello Stritto, Underhill & Aguiar, "Online Students' Perceptions of Generative AI" (OSU Ecampus Research Unit, July 2024). Survey of 669 online students on their knowledge, use, and course-level experiences with generative AI. | https://ecampus.oregonstate.edu/research/wp-content/uploads/Online-Students-Perceptions-of-AI-Report.pdf |
+| 7 | Provide or Punish? | HEPI Policy Note 51, Josh Freeman with Kortext (Feb 2024). Poll of 1,250 students via UCAS on attitudes to generative AI tools; finds AI use has normalized without an epidemic of AI-based cheating. | https://www.hepi.ac.uk/reports/provide-or-punish-students-views-on-generative-ai-in-higher-education/ |
+| 8 | EDUCAUSE QuickPoll | "EDUCAUSE QuickPoll Results: Adopting and Adapting to Generative AI in Higher Ed Tech" (April 2023). Institutional staff poll tracking disposition toward generative AI (optimism rose from 54% to 67% between Feb and April 2023). | https://er.educause.edu/articles/2023/4/educause-quickpoll-results-adopting-and-adapting-to-generative-ai-in-higher-ed-tech |
+| 9 | Oxford University Press | "Higher Education and AI: Survey Findings" (OUP, June 2024). Paired survey of 674 students and 841 lecturers on perceptions and use of AI across higher education. | https://pages.oup.com/he/us/ai-survey |
+| 10 | Multi-Informant Study | "Generative AI Perceptions: A Survey to Measure the Perceptions of Faculty, Staff, and Students on Generative AI Tools in Academia" (arXiv). Survey of 243 faculty/staff and 813 students, capturing perception differences across all three stakeholder groups in one instrument. | https://arxiv.org/abs/2304.14415 |
 
 ---
 
